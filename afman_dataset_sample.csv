@@ -1,0 +1,740 @@
+"id","Date","Tweet","cleaned_tweet","Json","labels"
+"1","2020-05-21 11:25:45+00:00","चक्रवात अम्फान ने बंगाल में मचाई भारी तबाही, सचिवालय को भी पहुंचा नुकसान https://t.co/n8mEcWMBZo","चक्रवात अम्फान ने बंगाल में मचाई भारी तबाही, सचिवालय को भी पहुंचा नुकसान ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""भारी तबाही, सचिवालय को भी पहुंचा नुकसान"",
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE']"
+"53","2020-05-20 04:49:24+00:00","@SevenShepherd @HiSandiLJ चक्रवात अम्फान लाइव अपडेट: महाराष्ट्र 21 मई तक ओडिशा, पश्चिम बंगाल के लिए विशेष ट्रेनों को रद्द करता है
+https://t.co/cRnF1JbC3K
+#चक्रवात #अम्फान #Allnewshindi #Amphan #CycloneAmphan #TazaaKhabar #Amphanliveupdate","चक्रवात अम्फान लाइव अपडेट: महाराष्ट्र 21 मई तक ओडिशा, पश्चिम बंगाल के लिए विशेष ट्रेनों को रद्द करता है","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": ""ओडिशा, पश्चिम बंगाल के लिए विशेष ट्रेनों को रद्द करता है"",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION']"
+"61","2020-05-22 13:53:17+00:00","चक्रवात ‘अम्फान’ से बंगाल में 80 लोगों की मौत, हज़ारों बेघर, एक लाख करोड़ से ज़्यादा के नुकसान का दावा https://t.co/ASkzv6N6aL","चक्रवात ‘अम्फान’ से बंगाल में 80 लोगों की मौत, हज़ारों बेघर, एक लाख करोड़ से ज़्यादा के नुकसान का दावा","{
+  ""DEATHS"": ""80 लोगों की मौत"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": ""हज़ारों बेघर"",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": ""एक लाख करोड़ से ज़्यादा के नुकसान का दावा"",
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'B-AFFECTED POPULATION', 'O', 'B-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS']"
+"68","2020-06-01 12:42:00+00:00","अम्फान के बाद निसर्ग तूफान / गुजरात में 4-5 जून को चक्रवात और भारी बारिश की चेतावनी, मुख्यमंत्री रूपाणी ने सभी जिलों को हाईअलर्ट पर रहने को कहा
+https://t.co/O7M21g1I9p #NisargaCyclone #Gujarat @vijayrupanibjp @NDRFHQ","अम्फान के बाद निसर्ग तूफान / गुजरात में 4-5 जून को चक्रवात और भारी बारिश की चेतावनी, मुख्यमंत्री रूपाणी ने सभी जिलों को हाईअलर्ट पर रहने को कहा","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"82","2020-05-21 16:24:17+00:00","ओडिशा में अम्फान चक्रवात से करीब 45 लाख लोग प्रभावित, बिजली आधारभूत संरचना तबाह
+https://t.co/UznIhMSRsf","ओडिशा में अम्फान चक्रवात से करीब 45 लाख लोग प्रभावित, बिजली आधारभूत संरचना तबाह","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": ""करीब 45 लाख लोग प्रभावित"",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""बिजली आधारभूत संरचना तबाह"",
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE']"
+"138","2020-05-18 06:13:17+00:00","चक्रवात अम्फान के अगले बारह घंटे में भीषण तूफान में बदलने की चेतावनी https://t.co/90vHOR10mg","चक्रवात अम्फान के अगले बारह घंटे में भीषण तूफान में बदलने की चेतावनी","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"185","2020-05-21 00:30:11+00:00","चक्रवात ‘अम्फान’ की दस्तक शुरू, 4 घंटों तक रहेगा तूफान https://t.co/vUlFsaTXiI","चक्रवात ‘अम्फान’ की दस्तक शुरू, 4 घंटों तक रहेगा तूफान","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"211","2020-05-21 03:39:23+00:00","चक्रवात अम्फान : प. बंगाल के बशीरहाट में 5500 मकान क्षतिग्रस्त, ओडिशा में एक समेत कुल चार मौतें
+#AmphanCyclone
+ https://t.co/qpTgDK3sIc","चक्रवात अम्फान : प. बंगाल के बशीरहाट में 5500 मकान क्षतिग्रस्त, ओडिशा में एक समेत कुल चार मौतें","{
+  ""DEATHS"": ""चार मौतें"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""बशीरहाट में 5500 मकान क्षतिग्रस्त"",
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS']"
+"242","2020-05-20 07:48:52+00:00","सुबह 11.30 बजे चक्रवात अम्फान करीब 125 किलोमीटर दक्षिण-दक्षिण-पूर्व दीघा (पश्चिम बंगाल) में था। दीघा, पश्चिम बंगाल और हटिया द्वीप समूह, बांग्लादेश के बीच पश्चिम बंगाल-बांग्लादेश तटों को पार करने वाला है। लैंडफॉल की प्रक्रिया दोपहर से शुरू होगी: भारतीय मौसम विज्ञान विभाग","सुबह 11.30 बजे चक्रवात अम्फान करीब 125 किलोमीटर दक्षिण-दक्षिण-पूर्व दीघा (पश्चिम बंगाल) में था। दीघा, पश्चिम बंगाल और हटिया द्वीप समूह, बांग्लादेश के बीच पश्चिम बंगाल-बांग्लादेश तटों को पार करने वाला है। लैंडफॉल की प्रक्रिया दोपहर से शुरू होगी: भारतीय मौसम विज्ञान विभाग","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"263","2020-05-22 11:49:18+00:00","#ओडिशा: प्रधानमंत्री नरेंद्र मोदी भूवनेश्वर हवाई अड्डे पहुंचे। पश्चिम बंगाल में चक्रवात अम्फान प्रभावित क्षेत्रों का हवाई सर्वेक्षण करने के बाद अब मुख्यमंत्री ओडिशा का हवाई सर्वेक्षण करेंगे। #CycloneAmphan 
+@PMOIndia @Naveen_Odisha https://t.co/BJlNRcS4cM",": प्रधानमंत्री नरेंद्र मोदी भूवनेश्वर हवाई अड्डे पहुंचे। पश्चिम बंगाल में चक्रवात अम्फान प्रभावित क्षेत्रों का हवाई सर्वेक्षण करने के बाद अब मुख्यमंत्री ओडिशा का हवाई सर्वेक्षण करेंगे।   
+  ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"272","2020-08-14 13:38:49+00:00","""इसी दौरान, पश्चिम बंगाल और ओडिशा में आए ‘अम्फान’ चक्रवात ने भारी नुकसान पहुंचाया, जिससे हमारी चुनौतियां और बढ़ गयीं।"" 
+- माननीय राष्ट्रपति श्री राम नाथ कोविंद।
+
+#IndependenceDay2020 
+@rashtrapatibhvn https://t.co/FKbuVrz5EW","""इसी दौरान, पश्चिम बंगाल और ओडिशा में आए ‘अम्फान’ चक्रवात ने भारी नुकसान पहुंचाया, जिससे हमारी चुनौतियां और बढ़ गयीं।"" 
+- माननीय राष्ट्रपति श्री राम नाथ कोविंद।
+
+ 2020","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""भारी नुकसान"",
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"285","2020-05-20 18:20:28+00:00","ओडिशा: महिला ने अम्फान चक्रवात के दौरान फायर ब्रिगेड की गाड़ी में ""बच्ची"" को दिया जन्म ! https://t.co/2SxAoNKHnI","ओडिशा: महिला ने अम्फान चक्रवात के दौरान फायर ब्रिगेड की गाड़ी में ""बच्ची"" को दिया जन्म ! ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"292","2020-05-22 01:32:47+00:00","प्रधानमंत्री नरेंद्र मोदी चक्रवात अम्फान के मद्देनजर हुई स्थिति का जायजा लेने के लिए पश्चिम बंगाल और ओडिशा की यात्रा करेंगे। वह हवाई सर्वेक्षण करेंगे और समीक्षा बैठकों में हिस्सा लेंगे, जहां राहत और पुनर्वास के पहलुओं पर चर्चा की जाएगी #AmphanUpdate https://t.co/7ziAreum6p","प्रधानमंत्री नरेंद्र मोदी चक्रवात अम्फान के मद्देनजर हुई स्थिति का जायजा लेने के लिए पश्चिम बंगाल और ओडिशा की यात्रा करेंगे। वह हवाई सर्वेक्षण करेंगे और समीक्षा बैठकों में हिस्सा लेंगे, जहां राहत और पुनर्वास के पहलुओं पर चर्चा की जाएगी   ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""राहत और पुनर्वास के पहलुओं पर चर्चा की जाएगी""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"372","2020-08-02 16:16:37+00:00","शिक्षक पश्चिम बंगाल में कोविद -19, चक्रवात अम्फान राहत कार्य के लिए भारांक प्राप्त करने के लिए https://t.co/UkdRYICASq","शिक्षक पश्चिम बंगाल में कोविद -19, चक्रवात अम्फान राहत कार्य के लिए भारांक प्राप्त करने के लिए","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": ""कोविद -19"",
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""राहत कार्य""
+}","['O', 'O', 'O', 'O', 'B-HEALTH ISSUES', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"442","2020-05-22 09:02:42+00:00","चक्रवात अम्फान को 'ऐला' से कहीं अधिक विनाशकारी माना जा रहा है: संयुक्त राष्ट्र https://t.co/j3lx6aaNld
+@ivxtimes #hindinews https://t.co/jV7NxxicpI","चक्रवात अम्फान को 'ऐला' से कहीं अधिक विनाशकारी माना जा रहा है: संयुक्त राष्ट्र 
+   ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"443","2020-06-08 11:47:33+00:00","ओड़िशा में अभी अम्फान चक्रवात आया तब अपनी जान को जोखिम में डालकर नरेन्द्र मोदी जी ओड़िया वासियों के साथ चट्टान की तरह खड़े दिखे।
+
+अम्फान चक्रवात में हुए नुकसान की भरपाई के लिए 500 करोड़ रुपये प्राथमिक तौर पर दिए: श्री 
+@AmitShah
+ #BJPJanSamvad","ओड़िशा में अभी अम्फान चक्रवात आया तब अपनी जान को जोखिम में डालकर नरेन्द्र मोदी जी ओड़िया वासियों के साथ चट्टान की तरह खड़े दिखे।
+
+अम्फान चक्रवात में हुए नुकसान की भरपाई के लिए 500 करोड़ रुपये प्राथमिक तौर पर दिए: श्री","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""500 करोड़ रुपये प्राथमिक तौर पर दिए""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O']"
+"486","2020-05-20 17:19:49+00:00","पश्चिम बंगाल की मुख्यमंत्री ममता बनर्जी (Mamata Banerjee) ने कहा कि चक्रवात अम्फान (Cyclone Amphan) का प्रभाव कोरोनावायरस से कही ज्यादा है. उन्होंने अम्फान तूफान से करीब 1 लाख करोड़ रुपये तक के नुकसान की आशंका जताई.","पश्चिम बंगाल की मुख्यमंत्री ममता बनर्जी ( ) ने कहा कि चक्रवात अम्फान ( ) का प्रभाव कोरोनावायरस से कही ज्यादा है. उन्होंने अम्फान तूफान से करीब 1 लाख करोड़ रुपये तक के नुकसान की आशंका जताई.","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": ""करीब 1 लाख करोड़ रुपये तक के नुकसान की आशंका जताई"",
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'O']"
+"488","2020-05-17 07:07:09+00:00","AHindinews: ओडिशा: #अम्फान चक्रवात से पूर्व, राहत व बचाव कार्य के लिए राज्य के बालासोर, भद्रक, केंद्रपाड़ा, पुरी, जगतसिंहपुर, जाजपुर और मयूरभंज जिलों में राष्ट्रीय आपदा प्रतिक्रिया बल (NDRF) की 10 टीमें तैनात की गई हैं। दृश्य जिला भद्रक से। https://t.co/ByGGYmP21P",": ओडिशा:  चक्रवात से पूर्व, राहत व बचाव कार्य के लिए राज्य के बालासोर, भद्रक, केंद्रपाड़ा, पुरी, जगतसिंहपुर, जाजपुर और मयूरभंज जिलों में राष्ट्रीय आपदा प्रतिक्रिया बल () की 10 टीमें तैनात की गई हैं। दृश्य जिला भद्रक से।","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""राष्ट्रीय आपदा प्रतिक्रिया बल () की 10 टीमें तैनात की गई हैं""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O']"
+"522","2020-05-20 06:40:27+00:00","Amphan Tracker: 150 KMPH की रफ्तार, देखें कैसे और किस दिशा में बढ़ रहा चक्रवात अम्फान https://t.co/XSi3bWN0x6",": 150  की रफ्तार, देखें कैसे और किस दिशा में बढ़ रहा चक्रवात अम्फान","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"546","2020-05-27 17:38:44+00:00","पेड़ लगाने के लिए मुख्यमंत्री राहत कोष में योगदान: शाहरुख खान ने चक्रवात अम्फान के लिए सहायता प्रदान की – भारत का टाइम्स https://t.co/bSC5rbNxT9","पेड़ लगाने के लिए मुख्यमंत्री राहत कोष में योगदान: शाहरुख खान ने चक्रवात अम्फान के लिए सहायता प्रदान की – भारत का टाइम्स","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""शाहरुख खान ने चक्रवात अम्फान के लिए सहायता प्रदान की""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O']"
+"619","2020-06-02 03:56:54+00:00","2020 शायद हम सभी के लिए संघर्ष मय रहेगा तूफान अम्फान के बाद,अब चक्रवात निसर्ग।
+
+चक्रवात निसर्ग से रेड अलर्ट पर मुंबई,100 किमी प्रति घंटा की रफ्तार से चल सकती हैं हवाएं।
+
+अमित शाह ने VC से महराष्ट्र का जायज़ा लिया।
+
+#COVIDー19
+#StayAtHomeSaveLives","2020 शायद हम सभी के लिए संघर्ष मय रहेगा तूफान अम्फान के बाद,अब चक्रवात निसर्ग।
+
+चक्रवात निसर्ग से रेड अलर्ट पर मुंबई,100 किमी प्रति घंटा की रफ्तार से चल सकती हैं हवाएं।
+
+अमित शाह ने  से महराष्ट्र का जायज़ा लिया।
+
+ 19","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"621","2020-05-22 12:31:59+00:00","ओडिशा: प्रधानमंत्री @narendramodi ने ओडिशा में चक्रवात अम्फान प्रभावित क्षेत्रों का हवाई सर्वेक्षण करने के बाद मुख्यमंत्री @Naveen_Odisha और दूसरे वरिष्ठ अधिकारियों के साथ राज्य में चक्रवात अम्फान की​ स्थिति को लेकर बैठक की। #CycloneAmphan https://t.co/TQ8x7CtuZe","ओडिशा: प्रधानमंत्री  ने ओडिशा में चक्रवात अम्फान प्रभावित क्षेत्रों का हवाई सर्वेक्षण करने के बाद मुख्यमंत्री  और दूसरे वरिष्ठ अधिकारियों के साथ राज्य में चक्रवात अम्फान की​ स्थिति को लेकर बैठक की।","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"639","2020-05-20 09:47:46+00:00","जानिए अम्फान चक्रवात के बारे में सबकुछ, बंगाल और ओडिशा के तटों से 170 किमी प्रति घंटे की तेजी से आज शाम टकराएगा
+
+:https://t.co/DTtQEt0lXe","जानिए अम्फान चक्रवात के बारे में सबकुछ, बंगाल और ओडिशा के तटों से 170 किमी प्रति घंटे की तेजी से आज शाम टकराएगा
+
+:","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"643","2020-05-20 23:19:48+00:00","अम्फान चक्रवात के कारण विनाश के दृश्य https://t.co/ZQmRsn2osh","अम्फान चक्रवात के कारण विनाश के दृश्य","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"692","2020-05-21 11:57:49+00:00","चक्रवात अम्फान से 72 लोगों की मौत, ममता बनर्जी ने किया मुआवजे का ऐलान https://t.co/7T2PRCSZoK via @सुरभि सलोनी","चक्रवात अम्फान से 72 लोगों की मौत, ममता बनर्जी ने किया मुआवजे का ऐलान    सलोनी","{
+  ""DEATHS"": ""72 लोगों की मौत"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""मुआवजे का ऐलान""
+}","['O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O']"
+"726","2020-05-30 17:07:21+00:00","अम्फान के बाद अब गुजरात में हिका चक्रवात का खतरा, 120 Km/h होगी रफ्तार! | Cyclone Hikaa may hit to gujarat alert issued fisherman arabian sea Oman | nation – News in Hindi https://t.co/LUk9NeG6dK","अम्फान के बाद अब गुजरात में हिका चक्रवात का खतरा, 120 / होगी रफ्तार! |             |  –","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"743","2020-05-15 23:50:01+00:00","Cyclone #AMPHAN forming over Bay of Bengal, चक्रवात तूफान अमफान-Odisha on alert.
+
+https://t.co/v2fgpxY27r
+
+ #CurrentAffairs2020 #CycloneAlert  #AmphanCyclone  #Odisha https://t.co/5Pf5pZ4crs",", चक्रवात तूफान अमफान-  .
+
+
+
+  2020","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O']"
+"789","2020-05-20 12:10:07+00:00","पश्चिम बंगाल के दीघा और बांग्लादेश हटिया के बीच अम्फान चक्रवात की लैंडिंग। मची तबाही।","पश्चिम बंगाल के दीघा और बांग्लादेश हटिया के बीच अम्फान चक्रवात की लैंडिंग। मची तबाही।","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""तबाही"",
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE']"
+"953","2020-05-20 04:32:48+00:00","Cyclone Amphan: पूर्वी तट से आज टकराएगा चक्रवात तूफान अम्फान, दोपहर बाद स्थिति हो सकती है खराब https://t.co/d1hO864JJ1"," : पूर्वी तट से आज टकराएगा चक्रवात तूफान अम्फान, दोपहर बाद स्थिति हो सकती है खराब ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1016","2020-05-21 16:12:38+00:00","Amphan Cyclone Latest Updates: Cyclone Amphan Havoc In West Bengal, Kolkata Airport Flooded - अम्फान चक्रवात का कहर, 'डूब' गया कोलकाता एयरपोर्ट https://t.co/SjGtTZaYal","   :      ,    - अम्फान चक्रवात का कहर, 'डूब' गया कोलकाता एयरपोर्ट ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""'डूब' गया कोलकाता एयरपोर्ट"",
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE']"
+"1026","2020-05-17 07:19:01+00:00","20तारीख की दोपहर से शाम के बीच #अम्फान चक्रवात के पश्चिम बंगाल के सागर द्वीप और बांग्लादेश के हातिया द्वीप के बीच में उतरने के चांसेज़ हैं।वहां चक्रवात भयानक रूप ले लेगा।चक्रवात के कारण ओडिशा में भारी वर्षा होगी और तेज आंधी चलेगी:भारत मौसम विभाग भुवनेश्वर, डायरेक्टर एच.आर.विश्वास https://t.co/Pg5H7xXaAl","20तारीख की दोपहर से शाम के बीच  चक्रवात के पश्चिम बंगाल के सागर द्वीप और बांग्लादेश के हातिया द्वीप के बीच में उतरने के चांसेज़ हैं।वहां चक्रवात भयानक रूप ले लेगा।चक्रवात के कारण ओडिशा में भारी वर्षा होगी और तेज आंधी चलेगी:भारत मौसम विभाग भुवनेश्वर, डायरेक्टर एच.आर.विश्वास","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1086","2020-05-31 18:13:11+00:00","ओडिशा, पश्चिम बंगाल के साथ देश की स्थिति: चक्रवात अम्फान संकट पर पीएम मोदी https://t.co/OuwDWsOl3R","ओडिशा, पश्चिम बंगाल के साथ देश की स्थिति: चक्रवात अम्फान संकट पर पीएम मोदी ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1104","2020-05-19 06:40:36+00:00","अगले 48 घंटे में आने वाला हैं, अम्फ़ान चक्रवात 
+165 से 185 kmph से चलेगी हवा..
+और भारत में कोरोना के मामले 1 लाख के पार•••
+कभी कभी तो लगता है पहले हम खत्म होंगे या
+2020..!!😏😏","अगले 48 घंटे में आने वाला हैं, अम्फ़ान चक्रवात 
+165 से 185  से चलेगी हवा..
+और भारत में कोरोना के मामले 1 लाख के पार•••
+कभी कभी तो लगता है पहले हम खत्म होंगे या
+2020..!!","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": ""कोरोना के मामले 1 लाख के पार"",
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1229","2020-05-18 11:08:18+00:00","सुपर साइक्लोन में तब्दील हो जाएगा अम्फान चक्रवात: PM मोदी ने बुलाई बैठक, तूफ़ान, भारी बारिश की आशंका
+इस चक्रवात का केंद्र फिलहाल ओडिशा के प्रदीप से 790 किलोमीटर दक्षिण, पश्चिम बंगाल के दीघा से 940 किलोमीटर दक्षिण-पश्चिम और बांग्लादेश के खेपुपारा से 1060 किलोमीटर https://t.co/9C0gKoWhIr","सुपर साइक्लोन में तब्दील हो जाएगा अम्फान चक्रवात:  मोदी ने बुलाई बैठक, तूफ़ान, भारी बारिश की आशंका
+इस चक्रवात का केंद्र फिलहाल ओडिशा के प्रदीप से 790 किलोमीटर दक्षिण, पश्चिम बंगाल के दीघा से 940 किलोमीटर दक्षिण-पश्चिम और बांग्लादेश के खेपुपारा से 1060 किलोमीटर","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1249","2020-05-20 15:25:50+00:00","बांग्लादेश ने चक्रवात अम्फान के लिए पहली मौत की रिपोर्ट की https://t.co/zr2MdpKhCc","बांग्लादेश ने चक्रवात अम्फान के लिए पहली मौत की रिपोर्ट की","{
+  ""DEATHS"": ""पहली मौत"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'O', 'O', 'O']"
+"1325","2020-05-23 14:32:48+00:00","पश्चिम बंगाल सरकार की रिक्वेस्ट पर अम्फान चक्रवात के बाद पैदा हुई स्थिति को सुधारने के लिए सेना की पांच टुकड़ियां भेजी गई हैंः इंडियन आर्मी #WestBengal #AmphanSuperCyclone #IndianArmy","पश्चिम बंगाल सरकार की रिक्वेस्ट पर अम्फान चक्रवात के बाद पैदा हुई स्थिति को सुधारने के लिए सेना की पांच टुकड़ियां भेजी गई हैंः इंडियन आर्मी","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""सेना की पांच टुकड़ियां भेजी गई हैं""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O']"
+"1357","2020-05-19 14:44:37+00:00","रेलवे ने चक्रवात अम्फान के मद्देनजर भुवनेश्वर-खड़गपुर रूट पर विशेष ट्रेनों को स्थगित करने का निर्णय लिया https://t.co/nbkfYu6JLn","रेलवे ने चक्रवात अम्फान के मद्देनजर भुवनेश्वर-खड़गपुर रूट पर विशेष ट्रेनों को स्थगित करने का निर्णय लिया","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1412","2020-05-22 13:07:35+00:00","चक्रवात अम्फान से प्रभावित ओडिशा के लिए पीएम मोदी ने की 500 करोड़ रुपये की मदद की घोषणा की https://t.co/irV7xtw2I0","चक्रवात अम्फान से प्रभावित ओडिशा के लिए पीएम मोदी ने की 500 करोड़ रुपये की मदद की घोषणा की","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": ""चक्रवात अम्फान से प्रभावित ओडिशा"",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""500 करोड़ रुपये की मदद""
+}","['B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O']"
+"1414","2020-05-28 23:50:52+00:00","तृणमूल का कहना है कि चक्रवात अम्फान हैंडलिंग पर मंत्री ओवर https://t.co/HWRBYUOWGe","तृणमूल का कहना है कि चक्रवात अम्फान हैंडलिंग पर मंत्री ओवर","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1438","2020-05-24 16:56:36+00:00","संयुक्त राष्ट्र: संयुक्त राष्ट्र (यूएन) महासचिव एंतोनियो गुतारेस ने भारत और बांग्लादेश में अम्फान चक्रवात के कारण हुई तबाही और लोगों की मौत को लेकर शोक प्रकट किया। साथ ही दोनों देश की सरकारों, पहले उत्तरदाताओं और समुदायों को लोगों की मदद करने के उनके शुरुआती कदमों के लिए और","संयुक्त राष्ट्र: संयुक्त राष्ट्र (यूएन) महासचिव एंतोनियो गुतारेस ने भारत और बांग्लादेश में अम्फान चक्रवात के कारण हुई तबाही और लोगों की मौत को लेकर शोक प्रकट किया। साथ ही दोनों देश की सरकारों, पहले उत्तरदाताओं और समुदायों को लोगों की मदद करने के उनके शुरुआती कदमों के लिए और","{
+  ""DEATHS"": ""लोगों की मौत"",
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""लोगों की मदद""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1456","2020-05-18 05:40:42+00:00","@ZeeNewsEnglish 12घंटों के अंदर अम्फान के सुपर चक्रवात में बदलने की उम्मीद है।ये अभी उत्तर-उत्तर पूर्व दिशा में गति करेगा 20तारीख की दोपहर/शाम को ये दीघा/हातिया द्वीपों के बीच से जाएगा।इस दौरान इसकी गति 155-165Km/hr और गंभीर होने पर185 Km/hr तक हो सकती है:मृत्युंजय महापात्र DG मौसम विभाग,दिल्ली","12घंटों के अंदर अम्फान के सुपर चक्रवात में बदलने की उम्मीद है।ये अभी उत्तर-उत्तर पूर्व दिशा में गति करेगा 20तारीख की दोपहर/शाम को ये दीघा/हातिया द्वीपों के बीच से जाएगा।इस दौरान इसकी गति 155-165/ और गंभीर होने पर185 / तक हो सकती है:मृत्युंजय महापात्र  मौसम विभाग,दिल्ली","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1507","2020-06-02 18:21:29+00:00","कोरोना संकट और अम्फान तूफान के बाद महाराष्ट्र और गुजरात पर चक्रवात 'निसर्ग' का खतरा मंडरा रहा है। स्थानीय कांग्रेस कार्यकर्ताओं से अनुरोध है, वे आम लोगों को सुरक्षित स्थान पर पहुंचाने में सहयोग करें। आप सभी हौसला… https://t.co/RLC5C0NR8B","कोरोना संकट और अम्फान तूफान के बाद महाराष्ट्र और गुजरात पर चक्रवात 'निसर्ग' का खतरा मंडरा रहा है। स्थानीय कांग्रेस कार्यकर्ताओं से अनुरोध है, वे आम लोगों को सुरक्षित स्थान पर पहुंचाने में सहयोग करें। आप सभी हौसला… ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""आम लोगों को सुरक्षित स्थान पर पहुंचाने में सहयोग करें""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O']"
+"1534","2020-05-18 15:48:34+00:00","अगले 48 घंटे में आने वाला है,
+""अम्फान चक्रवात""
+165 से 185 KMPH से चलेगी हवा...
+
+साला समझ में नही आ रहा है...👇
+
+.
+
+.
+
+पहले हम खत्म होंगे या 2020..??
+😟🤔😝😝","अगले 48 घंटे में आने वाला है,
+""अम्फान चक्रवात""
+165 से 185  से चलेगी हवा...
+
+साला समझ में नही आ रहा है...
+
+.
+
+.
+
+पहले हम खत्म होंगे या 2020..??","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1587","2020-05-24 10:16:59+00:00","दुखद ख़बर 
+कोलकाता का कॉलेज स्ट्रीट, एशिया का सबसे बड़ा पुस्तक बाज़ार चक्रवात अमफान की चपेट में बर्बाद हो गया। लगभग 60 लाख के मूल्य की किताबें फटी या गिली पायी गयी। कई पुस्तक विक्रेता अपना पेशा बदलने को मजबूर। 
+
+https://t.co/h3MURXBDZ3","दुखद ख़बर 
+कोलकाता का कॉलेज स्ट्रीट, एशिया का सबसे बड़ा पुस्तक बाज़ार चक्रवात अमफान की चपेट में बर्बाद हो गया। लगभग 60 लाख के मूल्य की किताबें फटी या गिली पायी गयी। कई पुस्तक विक्रेता अपना पेशा बदलने को मजबूर।","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": ""कई पुस्तक विक्रेता अपना पेशा बदलने को मजबूर"",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": ""60 लाख के मूल्य की किताबें फटी या गिली पायी गयी"",
+  ""INFRASTRUCTURE DAMAGE"": ""कोलकाता का कॉलेज स्ट्रीट, एशिया का सबसे बड़ा पुस्तक बाज़ार चक्रवात अमफान की चपेट में बर्बाद"",
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'B-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O']"
+"1636","2020-05-18 14:37:40+00:00","अम्फान में, तूफानी चक्रवात पर गम्‍भीर है सरकार https://t.co/PELhBRWovz","अम्फान में, तूफानी चक्रवात पर गम्भीर है सरकार ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1638","2020-06-02 05:42:55+00:00","अम्फान' के बाद अब 'निसर्ग' चक्रवात की आफत, महाराष्ट्र और गुजरात में 'निसर्ग' चक्रवात का खतरा, अरब सागर से उठा है चक्रवाती तूफान 'निसर्ग', मौसम विभाग ने चक्रवात को लेकर जारी किया अलर्ट
+#Nisarga  #coronavirusindia  #COVID19 #COVID19India #COVIDUpdates #NisargaCyclone https://t.co/2CqofNgOuy","अम्फान' के बाद अब 'निसर्ग' चक्रवात की आफत, महाराष्ट्र और गुजरात में 'निसर्ग' चक्रवात का खतरा, अरब सागर से उठा है चक्रवाती तूफान 'निसर्ग', मौसम विभाग ने चक्रवात को लेकर जारी किया अलर्ट
+       19  19","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1652","2020-05-19 04:11:17+00:00","चक्रवात ‘अम्फान’, कोविद -19 की दोहरी चुनौती का मुकाबला करने के लिए 37 एनडीआरएफ की टीमें, डीजी प्रधान ने कहा https://t.co/RgqVHwq7BS","चक्रवात ‘अम्फान’, कोविद -19 की दोहरी चुनौती का मुकाबला करने के लिए 37 एनडीआरएफ की टीमें, डीजी प्रधान ने कहा","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": ""कोविद -19"",
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""37 एनडीआरएफ की टीमें""
+}","['O', 'O', 'B-HEALTH ISSUES', 'I-HEALTH ISSUES', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O']"
+"1662","2020-05-22 13:24:10+00:00","ढाका, बांग्लादेश में चक्रवात ‘अम्फान’ के कारण 22 लोगों की मौत हुई है और तटीय क्षेत्र में बड़ी संख्या में लोग विस्थापित हुए हैं । सरकार ने नुकसान का आकलन शुरू कर दिया है ।","ढाका, बांग्लादेश में चक्रवात ‘अम्फान’ के कारण 22 लोगों की मौत हुई है और तटीय क्षेत्र में बड़ी संख्या में लोग विस्थापित हुए हैं । सरकार ने नुकसान का आकलन शुरू कर दिया है ।","{
+  ""DEATHS"": ""22 लोगों की मौत हुई है"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": ""बड़ी संख्या में लोग विस्थापित हुए हैं"",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1697","2020-05-21 09:55:00+00:00","चक्रवात अम्फान: PM मोदी बोले- इस मुश्किल घड़ी में पूरा देश पश्चिम बंगाल के साथ खड़ा
+https://t.co/biwcYPaCC4
+#CycloneAmphan #AmphanCyclon #SuperCycloneAmphan #PMModi #NarendraModi .@narendramodi #WestBengal https://t.co/RUomcWwHvh","चक्रवात अम्फान:  मोदी बोले- इस मुश्किल घड़ी में पूरा देश पश्चिम बंगाल के साथ खड़ा
+
+          .   ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1749","2020-05-18 11:08:21+00:00","NDRF ने कहा है कि वो स्थिति से निपटने के लिए पूरी तरह तैयार है और कोविड-19 संक्रमण आपदा को देखते हुए अम्फान चक्रवात (Amphan Cyclone) से निपटना एक दोहरी चुनौती बन गई है। प्रधानमंत्री नरेंद्र मोदी गृह मंत्रालय और राष्ट्रीय आपदा प्रबंधन अधिकारियों के साथ स्थिति की समीक्षा करेंगे।","ने कहा है कि वो स्थिति से निपटने के लिए पूरी तरह तैयार है और कोविड-19 संक्रमण आपदा को देखते हुए अम्फान चक्रवात ( ) से निपटना एक दोहरी चुनौती बन गई है। प्रधानमंत्री नरेंद्र मोदी गृह मंत्रालय और राष्ट्रीय आपदा प्रबंधन अधिकारियों के साथ स्थिति की समीक्षा करेंगे।","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": ""कोविड-19 संक्रमण"",
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HEALTH ISSUES', 'I-HEALTH ISSUES', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,420 @@
+"id","Date","Tweet","cleaned_tweet","hashtags","chatgpt annotation","labels"
+"0","2021-02-09 04:10:49+00:00","उत्तराखंड में आयी भीषण बाढ़ के बाद राहुल गांधी जी के निर्देशानुसार युवा कांग्रेस के कार्यकर्ताओं ने प्रशासन के साथ संभाला मोर्चा,
+
+रुद्रप्रयाग जिला अध्यक्ष संतोष रावत एवं बद्रीनाथ विधानसभा अध्यक्ष योगेंद्र सिंह के नेतृत्व में बाढ़ के चलते लापता हुए लोगों को ढूढंने का प्रयास जारी https://t.co/EHZ0NyKdOH","उत्तराखंड में आयी भीषण बाढ़ के बाद राहुल गांधी जी के निर्देशानुसार युवा कांग्रेस के कार्यकर्ताओं ने प्रशासन के साथ संभाला मोर्चा,
+
+रुद्रप्रयाग जिला अध्यक्ष संतोष रावत एवं बद्रीनाथ विधानसभा अध्यक्ष योगेंद्र सिंह के नेतृत्व में बाढ़ के चलते लापता हुए लोगों को ढूढंने का प्रयास जारी ","[]","{
+  ""DEATHS"": NaN,
+  ""MISSING"": ""लापता हुए लोगों"",
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""लापता हुए लोगों को ढूढंने का प्रयास जारी""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-MISSING', 'I-MISSING', 'I-MISSING', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"60","2021-02-08 06:46:06+00:00","उत्तराखंड में ग्लेशियर टूटने से आई बाढ़, 14 लोगों के शव बरामद और 125 अब भी लापता
+https://t.co/tSx4DJ9NbN
+
+#Dehradun #Uttarakhand #Chamoli #Laborer #TrivendraSinghRawat #Police #ITBP #Tunnel https://t.co/d9ggIUNeLs","उत्तराखंड में ग्लेशियर टूटने से आई बाढ़, 14 लोगों के शव बरामद और 125 अब भी लापता
+
+
+                ","[]","{
+    ""DEATHS"": ""14 लोगों के शव बरामद"",
+    ""MISSING"": ""125 अब भी लापता"",
+    ""TRAP"": NaN,
+    ""INJURED"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'B-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING']"
+"107","2021-02-07 09:38:35+00:00","उत्‍तराखंड में कुछ नदियों में अचानक बाढ़, तपोवन पनबिजली परियोजना का बांध टूटकर बाढ़ में बह गया https://t.co/Y5wbWcxBUC","उत्तराखंड में कुछ नदियों में अचानक बाढ़, तपोवन पनबिजली परियोजना का बांध टूटकर बाढ़ में बह गया ","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": ""पनबिजली परियोजना का बांध टूटकर बाढ़ में बह गया "", ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE']"
+"112","2021-06-11 07:51:00+00:00","उत्तराखंड में चमोली आपदा भारी हिमस्खलन का नतीजा, चट्टान और हिमनद बर्फ के गिरने से आयी थी बाढ़ : अध्ययन https://t.co/jNyILKK7IM","उत्तराखंड में चमोली आपदा भारी हिमस्खलन का नतीजा, चट्टान और हिमनद बर्फ के गिरने से आयी थी बाढ़ : अध्ययन ","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"114","2021-05-07 04:02:10+00:00","@BJP4UP @MithileshTpt ये तो वही बात हो गई,
+कि बाढ़ आये,उत्तराखंड में और राहत सामग्री केरल में बांट रहे हैं।😭
+अरे! वो बंगाल के BJP कार्यकर्ता भी अपने हैं,आज उनको आप की जरूरत है।
+तो यहां अपने अपने घर बैठकर धरना देने से कुछ नहीं होने वाला, बंगाल जाकर उनका साथ दीजिए।🙏
+#बंगाल_मांगे_राष्ट्रपति_शासन","  ये तो वही बात हो गई,
+कि बाढ़ आये,उत्तराखंड में और राहत सामग्री केरल में बांट रहे हैं।
+अरे! वो बंगाल के  कार्यकर्ता भी अपने हैं,आज उनको आप की जरूरत है।
+तो यहां अपने अपने घर बैठकर धरना देने से कुछ नहीं होने वाला, बंगाल जाकर उनका साथ दीजिए।","['बंगाल_मांगे_राष्ट्रपति_शासन']","{
+    ""DEATHS"": NaN,
+    ""MISSING"": NaN,
+    ""TRAP"": NaN,
+    ""INJURED"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": ""राहत सामग्री केरल में बांट रहे हैं""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"126","2021-02-07 09:48:59+00:00","बिग ब्रेकिंग :- 
+फिर से बरपा कुदरत का कहर ...
+.उत्तराखंड: चमोली जिले में ग्लेशियर फटा, धौली नदी में बाढ़ से हरिद्वार तक बढ़ा खतरा, अलर्ट जारी","बिग ब्रेकिंग :- 
+फिर से बरपा कुदरत का कहर ...
+.उत्तराखंड: चमोली जिले में ग्लेशियर फटा, धौली नदी में बाढ़ से हरिद्वार तक बढ़ा खतरा, अलर्ट जारी","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"247","2021-02-07 15:07:48+00:00","#चमोली ज़िले में बाढ़ से 100-150 लोगों के हताहत होने की आशंका है - उत्तराखंड के मुख्य सचिव ओम प्रकाश  
+#Uttarakhand #Uttrakhand #उत्तराखंड #उत्तराखंड_आपदा #उत्तराखंड @tsrawatbjp"," ज़िले में बाढ़ से 100-150 लोगों के हताहत होने की आशंका है - उत्तराखंड के मुख्य सचिव ओम प्रकाश  
+       ","['चमोली', 'उत्तराखंड', 'उत्तराखंड_आपदा', 'उत्तराखंड']","{ ""DEATHS"": "" 100-150 लोगों के हताहत होने की आशंका"", ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"326","2021-06-19 13:37:45+00:00","@aajtak @chitraaum अभी अच्छी तरह मानसून भी नही आया है और उत्तराखंड में बारिश से जनजीवन अस्त व्यस्त हो गया है बाढ़ आ गई है सभी जगह कुदरत का ये कैसा करिश्मा है","अभी अच्छी तरह मानसून भी नही आया है और उत्तराखंड में बारिश से जनजीवन अस्त व्यस्त हो गया है बाढ़ आ गई है सभी जगह कुदरत का ये कैसा करिश्मा है","[]","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": ""जनजीवन अस्त व्यस्त हो गया है"",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"386","2021-02-07 08:04:59+00:00","चमोली के रिणी गांव में ऋषिगंगा प्रोजेक्ट को भारी बारिश व अचानक पानी आने से क्षति की संभावना है। नदी में अचानक पानी आने से अलकनंदा के निचले क्षेत्रों में भी बाढ़ की संभावना है। तटीय क्षेत्रों में लोगों को अलर्ट किया गया है। नदी किनारे बसे लोगों को हटाया जा रहा है: उत्तराखंड CM https://t.co/yHZxPwoKza","चमोली के रिणी गांव में ऋषिगंगा प्रोजेक्ट को भारी बारिश व अचानक पानी आने से क्षति की संभावना है। नदी में अचानक पानी आने से अलकनंदा के निचले क्षेत्रों में भी बाढ़ की संभावना है। तटीय क्षेत्रों में लोगों को अलर्ट किया गया है। नदी किनारे बसे लोगों को हटाया जा रहा है: उत्तराखंड","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": "" नदी किनारे बसे लोगों को हटाया जा रहा"", ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O', 'O']"
+"437","2021-02-09 12:33:10+00:00","उत्तराखंड में आई बाढ़ के बाद झारखंड के पंद्रह लोग लापता हैं, एक अधिकारी ने मंगलवार को यह जानकारी दी। #UttarakhandDisaster https://t.co/UmL3bAEoWj","उत्तराखंड में आई बाढ़ के बाद झारखंड के पंद्रह लोग लापता हैं, एक अधिकारी ने मंगलवार को यह जानकारी दी।   ","[]","{
+  ""DEATHS"": NaN,
+  ""MISSING"": ""पंद्रह लोग लापता"",
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-MISSING', 'I-MISSING', 'I-MISSING', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"438","2021-02-07 09:01:22+00:00","उत्तराखंड महाप्रलय। प्रदेश के चमोली जिले में अचानक ग्लेशियर फट जाने से सभी हतप्रभ हैं। प्रशासन ने आनन फानन में राहत बचाव कार्य जारी कर दिया है। ग्लेशियर फटने से न सिर्फ धौली गंगा, ऋषि गंगा में भीषण बाढ़ से तबाही मच गई बल्कि तपोवन हाइड्रो प्रोजेक्ट भी पूरी तरह से तबाह हो गया। https://t.co/yEqYEoLFOE","उत्तराखंड महाप्रलय। प्रदेश के चमोली जिले में अचानक ग्लेशियर फट जाने से सभी हतप्रभ हैं। प्रशासन ने आनन फानन में राहत बचाव कार्य जारी कर दिया है। ग्लेशियर फटने से न सिर्फ धौली गंगा, ऋषि गंगा में भीषण बाढ़ से तबाही मच गई बल्कि तपोवन हाइड्रो प्रोजेक्ट भी पूरी तरह से तबाह हो गया। ","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": ""तबाही मच गई"", ""HELP AND RELIEF"": ""राहत बचाव कार्य जारी ""}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"439","2021-05-15 07:11:09+00:00","@kunalanilpatil @Dev_Fadnavis @INCIndia ये तो उत्तराखंड त्रासदी की बाढ में बह कर आये शव हो सकते हैं जो लापता थे... @RSSorg इनका उचित दह संस्कार करना चाहिए 🙏🙏","ये तो उत्तराखंड त्रासदी की बाढ में बह कर आये शव हो सकते हैं जो लापता थे...  इनका उचित दह संस्कार करना चाहिए","[]","{
+    ""DEATHS"": ""बह कर आये शव हो सकते हैं जो लापता"",
+    ""MISSING"": ""बह कर आये शव हो सकते हैं जो लापता"",
+    ""INJURED"": NaN,
+    ""TRAP"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"458","2021-02-07 13:18:20+00:00","ध्वनिगंगा नदि तपोवन उत्तराखंड जो नदिपर Dam बना था ऊसके टुटनेसे भारी बाढ के साथ मलबा बह रहा है। https://t.co/0GJDU6VATW","ध्वनिगंगा नदि तपोवन उत्तराखंड जो नदिपर  बना था ऊसके टुटनेसे भारी बाढ के साथ मलबा बह रहा है।","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"471","2021-02-07 07:59:34+00:00","उत्तराखंड: चमोली जिले में ग्लेशियर फटने से आई बाढ़, ऋषि गंगा और तपोवन हाईड्रो प्रोजेक्ट पूरी तरह ध्वस्त https://t.co/41fqfr3HeM","उत्तराखंड: चमोली जिले में ग्लेशियर फटने से आई बाढ़, ऋषि गंगा और तपोवन हाईड्रो प्रोजेक्ट पूरी तरह ध्वस्त ","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": ""हाईड्रो प्रोजेक्ट पूरी तरह ध्वस्त "", ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE']"
+"487","2021-02-09 18:32:14+00:00","उत्तराखंड में ग्लेशियर फटने से आई भीषण बाढ़ में उत्तर प्रदेश के लखीमपुर खीरी के कई मजदूर लापता हैं. 
+#UttarakhandDisaster #TapovanTunnel #Video
+https://t.co/yRkXROubTd","उत्तराखंड में ग्लेशियर फटने से आई भीषण बाढ़ में उत्तर प्रदेश के लखीमपुर खीरी के कई मजदूर लापता हैं. 
+     ","[]","{ ""DEATHS"": NaN, ""MISSING"": ""कई मजदूर लापता  "", ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-MISSING', 'I-MISSING', 'I-MISSING', 'O']"
+"513","2021-03-02 11:42:50+00:00","सेवा कार्य
+1971 में ओडिशा में आए भयंकर चंक्रवात से लेकर भोपाल की गैस त्रासदी तक 1984 में हुए सिख विरोधी दंगों से लेकर गुजरात के भूकंप सुनामी की प्रलय, उत्तराखंड की बाढ़ और कारगिल युद्ध के घायलों की सेवा तक  संघ ने राहत और बचाव का काम हमेशा सबसे आगे होकर किया है
+#संघम_सरणं_गच्छामि","सेवा कार्य
+1971 में ओडिशा में आए भयंकर चंक्रवात से लेकर भोपाल की गैस त्रासदी तक 1984 में हुए सिख विरोधी दंगों से लेकर गुजरात के भूकंप सुनामी की प्रलय, उत्तराखंड की बाढ़ और कारगिल युद्ध के घायलों की सेवा तक  संघ ने राहत और बचाव का काम हमेशा सबसे आगे होकर किया है","['संघम_सरणं_गच्छामि']","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""संघ ने राहत और बचाव का काम हमेशा सबसे आगे होकर किया है""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"552","2021-02-07 17:47:30+00:00","चमोली में आई बाढ़ ने फिर से उत्तराखंड के निवासियों को झिंझोड़ के रख दिया है। ईश्वर से प्रार्थना करता हूं कि सभी लोग जल्दी से सुरक्षित स्थान पहुंच जाएं और लापता लोग को जल्दी रेस्क्यू कर पाए।@tsrawatbjp @narendramodi @myogiadityanath #HelpingHand #UttrakhandFlood🙏","चमोली में आई बाढ़ ने फिर से उत्तराखंड के निवासियों को झिंझोड़ के रख दिया है। ईश्वर से प्रार्थना करता हूं कि सभी लोग जल्दी से सुरक्षित स्थान पहुंच जाएं और लापता लोग को जल्दी रेस्क्यू कर पाए।","[]","{ ""DEATHS"": NaN, ""MISSING"": ""लापता लोग"", ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": "" निवासियों को झिंझोड़ "", ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": ""सभी लोग जल्दी से सुरक्षित स्थान पहुंच जाएं और लापता लोग को जल्दी रेस्क्यू ""}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O']"
+"596","2021-02-07 08:31:51+00:00","#GlacierbreaksinUttarakhand उत्तराखंड के चमोली जिले में ग्लेशियर फटने से बड़ी तबाही हुई है. चमोली जिले जोशीमठ में ग्लेशियर टूटने से धौलीगंगा नदी में बाढ़ जैसी स्थिति पैदा हो गई है...इस बीच प्रधानमंत्री मोदी ने घटना की पूरी जानकारी ली और घटना पर चिंता जताई  https://t.co/RH1oKqeVRi","उत्तराखंड के चमोली जिले में ग्लेशियर फटने से बड़ी तबाही हुई है. चमोली जिले जोशीमठ में ग्लेशियर टूटने से धौलीगंगा नदी में बाढ़ जैसी स्थिति पैदा हो गई है...इस बीच प्रधानमंत्री मोदी ने घटना की पूरी जानकारी ली और घटना पर चिंता जताई","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": ""बड़ी तबाही"", ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"628","2021-06-09 11:45:48+00:00","@TheUpenYadav 
+Sir,
+   यह घोषणा उत्तराखंड केदारनाथ बाढ़ त्रासदी 2013 के पीड़ित परिवार के सदस्यों को अनुकम्पा त्मक नियुक्ति देने की है 
+Raj.govt ने हमे अभी तक कोई भी 
+रोजगार / नियुक्ति  नही दी है 
+
+सर, 
+ आप से उम्मीद और निवेदन है की इस मे आप हमारी मदद करें  हम आपके आभारी रहेंगे । https://t.co/HKSTGFBWZJ"," 
+,
+   यह घोषणा उत्तराखंड केदारनाथ बाढ़ त्रासदी 2013 के पीड़ित परिवार के सदस्यों को अनुकम्पा त्मक नियुक्ति देने की है 
+. ने हमे अभी तक कोई भी 
+रोजगार / नियुक्ति  नही दी है 
+
+सर, 
+ आप से उम्मीद और निवेदन है की इस मे आप हमारी मदद करें  हम आपके आभारी रहेंगे । ","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": ""2013 के पीड़ित परिवार के सदस्यों को अनुकम्पा त्मक नियुक्ति देने ""}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"633","2021-02-08 11:52:52+00:00","प्रधानमंत्री मोदी ने उत्तराखंड में बाढ़ की स्थिति की समीक्षा की, कहा- राष्ट्र सभी की सुरक्षा के लिए प्रार्थना करता है
+ https://t.co/zKiFmbLnkl…
+
+via NaMo App
+
+via MyNt https://t.co/zvhnA0a0D8","प्रधानमंत्री मोदी ने उत्तराखंड में बाढ़ की स्थिति की समीक्षा की, कहा- राष्ट्र सभी की सुरक्षा के लिए प्रार्थना करता है
+ 
+
+  
+
+  ","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"647","2021-02-10 06:11:27+00:00","उत्तराखंड में बाढ़ में मृतक व्यक्तिको को @AAPUttarPradesh मेरठ में @aap_minority विंग के साथियों ने श्रद्धांजलि दी। @Vaibhav_AAP @VaibhavP_AAP @ShakeelMalikAAP @SanjayAzadSln @SabhajeetAAP @ChhaviDr @Dinesh_Spatel @imran_nambardar @AapVikas123 @TariqAnwarAAP @drbdkhanalbi https://t.co/OHGyRVGp7z","उत्तराखंड में बाढ़ में मृतक व्यक्तिको को  मेरठ में  विंग के साथियों ने श्रद्धांजलि दी।","[]","{
+  ""DEATHS"": ""बाढ़ में मृतक व्यक्तिको"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"665","2021-02-07 13:15:32+00:00","उत्तराखंड मै बाढ बाबा केदार आपकी रछा करे सभी पिडतो को संवेदना ईश्वर आपकी सहायता करेगा","उत्तराखंड मै बाढ बाबा केदार आपकी रछा करे सभी पिडतो को संवेदना ईश्वर आपकी सहायता करेगा","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"733","2021-02-07 08:06:56+00:00","ग्लेशियर टूटने से चमोली जिले में आई बाढ़ में 100-150 लोगों के हताहत होने की आशंका: ओम प्रकाश, मुख्य सचिव, उत्तराखंड (ANI)
+https://t.co/nIIwWXY0Qd
+
+#Uttarakhand #Chamoli #BreakingNews","ग्लेशियर टूटने से चमोली जिले में आई बाढ़ में 100-150 लोगों के हताहत होने की आशंका: ओम प्रकाश, मुख्य सचिव, उत्तराखंड ()
+
+
+     ","[]","{ ""DEATHS"": "" 100-150 लोगों के हताहत होने की आशंका"", ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"736","2021-02-07 10:23:57+00:00","उत्तराखंड में ग्लेशियर के गिरने से बाढ़ आई 
+  @devbhumi_mero_uttrakhand  @aapna_uttarkhand  #उत्तराखंड  #uttarakhandfloods  #uttarakhand  #uttarakhandtourism @rsprasad @narendramodi @Pushpendrakulss @ravikishann 
+@yadavakhilesh @beingarun28 https://t.co/ULl9Q0JtB2","उत्तराखंड में ग्लेशियर के गिरने से बाढ़ आई 
+                    
+  ","['उत्तराखंड']","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"757","2021-02-07 10:18:01+00:00","आज फिर दिखा वैसा ही मंजर, जब 2013 में उत्तराखंड में आई थी तबाही। जोशीमठ मे ग्लेशियर टूटने पर आई बाढ़ और हुई भारी तबाही का ताजा वीडियो , इस बात की तर्फ इशारा करता है की कुदरत के साथ हो रही छेड-छाड के कारण हमे भविष्य मे और भी भयानक परिणाम भुगतने पड सकते है। 
+#Uttarakhand
+@NDRFHQ https://t.co/D44OlJryxo","आज फिर दिखा वैसा ही मंजर, जब 2013 में उत्तराखंड में आई थी तबाही। जोशीमठ मे ग्लेशियर टूटने पर आई बाढ़ और हुई भारी तबाही का ताजा वीडियो , इस बात की तर्फ इशारा करता है की कुदरत के साथ हो रही छेड-छाड के कारण हमे भविष्य मे और भी भयानक परिणाम भुगतने पड सकते है। 
+ 
+ ","[]","{
+    ""DEATHS"": NaN,
+    ""MISSING"": NaN,
+    ""INJURED"": NaN,
+    ""TRAP"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": ""भारी तबाही"",
+    ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"786","2021-02-07 10:48:40+00:00","‘मुश्किल घड़ी में एकजुटता’: उत्तराखंड बाढ़ के पीड़ितों के लिए नेता, मुख्यमंत्री की प्रार्थना https://t.co/4KEAxlRoNh","‘मुश्किल घड़ी में एकजुटता’: उत्तराखंड बाढ़ के पीड़ितों के लिए नेता, मुख्यमंत्री की प्रार्थना ","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"796","2021-02-07 09:01:35+00:00","उत्तराखंड के अलकनंदा मे हिमाचल का ग्लेशियर फट जाने से भारी तबाही का अंदेशा! 
+
+कई नदियों मे बाढ़ आने का खतरा और एक बिजली प्रोजेक्ट मे काम करने वाले करीब 150 मजदूर लापता बताए जा रहे हैं!","उत्तराखंड के अलकनंदा मे हिमाचल का ग्लेशियर फट जाने से भारी तबाही का अंदेशा! 
+
+कई नदियों मे बाढ़ आने का खतरा और एक बिजली प्रोजेक्ट मे काम करने वाले करीब 150 मजदूर लापता बताए जा रहे हैं!","[]","{ ""DEATHS"": NaN, ""MISSING"": ""करीब 150 मजदूर लापता"", ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": ""भारी तबाही"", ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'O', 'O', 'O', 'O']"
+"802","2021-02-07 15:30:34+00:00","चमोली में ग्लेशियर फटने से बाढ़ त्रासदी बेहद दुखद है। मेरी संवेदनाएँ उत्तराखंड की जनता के साथ हैं।
+#UttarakhandDisaster 
+@narendramodi @rajsinhabjp @The_NehaJoshi @LatwalKundan","चमोली में ग्लेशियर फटने से बाढ़ त्रासदी बेहद दुखद है। मेरी संवेदनाएँ उत्तराखंड की जनता के साथ हैं।
+  
+   ","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"825","2021-02-07 09:46:23+00:00","चमोली में बाढ़: उत्तराखंड पुलिस ने जारी की सलाह, लोगों से किया है ‘धैर्य’ इंडिया न्यूज – टाइम्स ऑफ इंडिया https://t.co/stIoPNRFQg","चमोली में बाढ़: उत्तराखंड पुलिस ने जारी की सलाह, लोगों से किया है ‘धैर्य’ इंडिया न्यूज – टाइम्स ऑफ इंडिया ","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"905","2021-03-06 08:48:25+00:00","चमोली जिले के रेनी गांव में 26 दिन में बेली ब्रिज तैयार, https://t.co/zgpWeQUN2p, &lt;- click to read. https://t.co/DiUBKnq3wp
+
+BRO ने उत्तराखंड के चमोली जिले के 13 सीमावर्ती गांवों का रिकॉर्ड समय में संपर्क बहाल किया, यह संपर्क अचानक बाढ़ के कारण कट गया था; रेनी गांव में 200 फीट … https://t.co/Y5n6sjhDzj","चमोली जिले के रेनी गांव में 26 दिन में बेली ब्रिज तैयार,     . 
+
+ ने उत्तराखंड के चमोली जिले के 13 सीमावर्ती गांवों का रिकॉर्ड समय में संपर्क बहाल किया, यह संपर्क अचानक बाढ़ के कारण कट गया था; रेनी गांव में 200 फीट … ","[]","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""चमोली जिले के 13 सीमावर्ती गांवों का रिकॉर्ड समय में संपर्क बहाल किया""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"980","2021-05-30 08:39:53+00:00","लोग सोचते हैं हम प्रकृति को नष्ट करेंगे,प्रकृति हमारा क्या कर लेगी।
+ये लोगों का भ्रम है,याद करो उत्तराखंड की बाढ को रूह कांप जाएगी।
+#SaveBuxwahaForest","लोग सोचते हैं हम प्रकृति को नष्ट करेंगे,प्रकृति हमारा क्या कर लेगी।
+ये लोगों का भ्रम है,याद करो उत्तराखंड की बाढ को रूह कांप जाएगी।
+ ","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1035","2021-02-08 06:35:42+00:00","‘लोग असहाय देखते रहे और अपनों को बाढ़ बहा ले गई’, पढ़ें उत्‍तराखंड में आई तबाही की आंखों देखी https://t.co/rf95DN6aKe","‘लोग असहाय देखते रहे और अपनों को बाढ़ बहा ले गई’, पढ़ें उत्तराखंड में आई तबाही की आंखों देखी ","[]","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1133","2021-02-07 13:44:34+00:00","भारतीय नौसेना की सात गोताखोर टीमें रविवार को उत्तराखंड के चमोली जिले के जोशीमठ में बाढ़ प्रभावित क्षेत्रों में राहत कार्यो के लिए स्टैंडबाय पर हैं। #UttarakhandAvalanche https://t.co/SJlgPadmt8","भारतीय नौसेना की सात गोताखोर टीमें रविवार को उत्तराखंड के चमोली जिले के जोशीमठ में बाढ़ प्रभावित क्षेत्रों में राहत कार्यो के लिए स्टैंडबाय पर हैं।","","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""भारतीय नौसेना की सात गोताखोर टीमें रविवार को उत्तराखंड के चमोली जिले के जोशीमठ में बाढ़ प्रभावित क्षेत्रों में राहत कार्यो के लिए स्टैंडबाय पर हैं""
+}","['B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"1191","2021-02-07 10:58:49+00:00","#उत्तराखंड के चमोली ज़िले में एक ग्लेशियर फ़टने से धौलीगंगा नदी में अचानक बाढ़ आई. पूरी रिपोर्ट यहाँ पढ़ें:
+#UttarakhandFlood #UttarakhandDisaster #UttarakhandNews
+
+https://t.co/Bfw2Gww6ky"," के चमोली ज़िले में एक ग्लेशियर फ़टने से धौलीगंगा नदी में अचानक बाढ़ आई. पूरी रिपोर्ट यहाँ पढ़ें:
+     
+
+","","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1215","2021-02-09 04:47:34+00:00","उत्तर प्रदेश सरकार के कैबिनेट मंत्री @SureshRanaBJP , आयुष मंत्री धर्म सिंह सैनी और बाढ़ राहत राज्यमंत्री विजय कश्यप आज उत्तराखंड में हादसे वाली जगह का दौरा करेंगे। #Uttarakhand https://t.co/5IexeGWB6n","उत्तर प्रदेश सरकार के कैबिनेट मंत्री  , आयुष मंत्री धर्म सिंह सैनी और बाढ़ राहत राज्यमंत्री विजय कश्यप आज उत्तराखंड में हादसे वाली जगह का दौरा करेंगे।   ","","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": ""राहत राज्यमंत्री विजय कश्यप आज उत्तराखंड में हादसे वाली जगह का दौरा करेंगे""}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O']"
+"1281","2021-02-07 09:40:11+00:00","उत्‍तराखंड में कुछ नदियों में अचानक बाढ़, तपोवन पनबिजली परियोजना का बांध टूटकर बाढ़ में बह गया
+
+#Uttarakhand","उत्तराखंड में कुछ नदियों में अचानक बाढ़, तपोवन पनबिजली परियोजना का बांध टूटकर बाढ़ में बह गया
+
+ ","","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": ""बांध टूटकर बाढ़ में बह गया"", ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE']"
+"1323","2021-02-07 19:07:34+00:00","चमोली में ग्लेशियर फटने से बाढ़ त्रासदी बेहद दुखद है। मेरी संवेदनाएँ उत्तराखंड की जनता के साथ हैं।
+#Uttarakhand 
+@INCIndia","चमोली में ग्लेशियर फटने से बाढ़ त्रासदी बेहद दुखद है। मेरी संवेदनाएँ उत्तराखंड की जनता के साथ हैं।
+  
+","","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1345","2021-02-07 11:41:44+00:00","देवभूमि उत्तराखंड के चमोली ज़िले में ग्लेशियर फटने के कारण आई बाढ़ में कई लोगों के हताहत़ घायल एवं 150-200 से ज़्यादा मात्रा में लोगों के लापता होने की ख़बरों से अत्यंत दु:खी हूं। इस चुनौतीपूर्ण कठिन संकट की ज़रूरतमंद घड़ी में सारे अन्य प्रदेशों के लोग देवभूमि उत्तराखंड के..(1/n) https://t.co/udECDUf8K9","देवभूमि उत्तराखंड के चमोली ज़िले में ग्लेशियर फटने के कारण आई बाढ़ में कई लोगों के हताहत़ घायल एवं 150-200 से ज़्यादा मात्रा में लोगों के लापता होने की ख़बरों से अत्यंत दु:खी हूं। इस चुनौतीपूर्ण कठिन संकट की ज़रूरतमंद घड़ी में सारे अन्य प्रदेशों के लोग देवभूमि उत्तराखंड के..(1/)","","{
+  ""DEATHS"": NaN,
+  ""MISSING"": "" 150-200 से ज़्यादा मात्रा में लोगों के लापता"",
+  ""INJURED"": ""हताहत़ घायल"",
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INJURED', 'I-INJURED', 'O', 'B-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'I-MISSING', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1346","2021-02-07 10:46:23+00:00","@themojostory उत्तराखंड के चमोली में भीषण बाढ़,250 से ज्यादा लोगों की फसे होने की खबर #uttarakhand #Dhauliganga #Chamoli #haridwar #PrayersForUttrakhand #flashflood #Avalanche ... https://t.co/W7d13y9VQz"," उत्तराखंड के चमोली में भीषण बाढ़,250 से ज्यादा लोगों की फसे होने की खबर               ... ","","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": ""250 से ज्यादा लोगों की फसे होने की खबर"",
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'B-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'O']"
+"1357","2021-05-29 13:00:30+00:00","@PRYkaMASTER @shikshakdakhal बिल्कुल मदद की जानी चाहिए जैसे उत्तराखंड की बाढ़ के समय और पिछले वर्ष कोरोना के समय एक-एक दिन का वेतन दिया था।","बिल्कुल मदद की जानी चाहिए जैसे उत्तराखंड की बाढ़ के समय और पिछले वर्ष कोरोना के समय एक-एक दिन का वेतन दिया था।","","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""एक-एक दिन का वेतन दिया था""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"1366","2021-02-07 10:20:52+00:00","उत्तराखंड के #Chamoli जिले में ऋषिगंगा नदी में आई बाढ़ से हुई हानि दुखद है !
+
+प्रकृति से प्रार्थना है कि आपदा प्रभावित लोगों को शक्ति दे..
+#Uttrakhand","उत्तराखंड के   जिले में ऋषिगंगा नदी में आई बाढ़ से हुई हानि दुखद है !
+
+प्रकृति से प्रार्थना है कि आपदा प्रभावित लोगों को शक्ति दे..
+ ","","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": ""आपदा प्रभावित लोगों"",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O', 'O', 'O']"
+"1404","2021-02-07 09:12:16+00:00","चमोली में ग्लेशियर फटने से बाढ़ त्रासदी बेहद दुखद है। मेरी संवेदनाएँ उत्तराखंड की जनता के साथ हैं।
+
+राज्य सरकार सभी पीड़ितों को तुरंत सहायता दें। सभी साथी राहत कार्य में हाथ बटाएँ।
+#Uttrakhand https://t.co/Pr5Oxu449K","चमोली में ग्लेशियर फटने से बाढ़ त्रासदी बेहद दुखद है। मेरी संवेदनाएँ उत्तराखंड की जनता के साथ हैं।
+
+राज्य सरकार सभी पीड़ितों को तुरंत सहायता दें। सभी साथी राहत कार्य में हाथ बटाएँ।
+  ","","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""राज्य सरकार सभी पीड़ितों को तुरंत सहायता दें। सभी साथी राहत कार्य में हाथ बटाएँ।""
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"1424","2021-02-07 09:54:27+00:00","#Uttarakhand -  आज फिर दिखा वैसा ही मंजर, जब 2013 में उत्तराखंड में आई थी तबाही। जोशीमठ मे ग्लेशियर टूटने पर आई बाढ़ और हुई भारी तबाही का ताजा वीडियो , इस बात की तर्फ इशारा करता है की कुदरत के साथ हो रही छेड-छाड के कारण हमे भविष्य मे और भी भयानक परिणाम भुगतने पड सकते है। https://t.co/KPyGGbWEia","  -  आज फिर दिखा वैसा ही मंजर, जब 2013 में उत्तराखंड में आई थी तबाही। जोशीमठ मे ग्लेशियर टूटने पर आई बाढ़ और हुई भारी तबाही का ताजा वीडियो , इस बात की तर्फ इशारा करता है की कुदरत के साथ हो रही छेड-छाड के कारण हमे भविष्य मे और भी भयानक परिणाम भुगतने पड सकते है। ","","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": ""भारी तबाही"", ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1466","2021-02-07 08:12:49+00:00","@Im_Mmbhatt @uttarakhandcops @SwarupRss श्रीनगर में बाढ़ जल स्तर 16:00 बजे 536.00 मीटर तक बढ़ सकता है।  ऋषिकेश में जल स्तर 20.50 बजे 340.50 मीटर और हरिद्वार का जल स्तर 294.00 मीटर 21:00 बजे तक बढ़ सकता है।  (खतरे का स्तर श्रीनगर, ऋषिकेश और हरिद्वार को पार करेगा)
+ #उत्तराखंड
+#Uttarakhand","   श्रीनगर में बाढ़ जल स्तर 16:00 बजे 536.00 मीटर तक बढ़ सकता है।  ऋषिकेश में जल स्तर 20.50 बजे 340.50 मीटर और हरिद्वार का जल स्तर 294.00 मीटर 21:00 बजे तक बढ़ सकता है।  (खतरे का स्तर श्रीनगर, ऋषिकेश और हरिद्वार को पार करेगा)
+ 
+ ","","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1475","2021-06-16 05:20:38+00:00","16 जून 3013 को केदारनाथ घाटी समेत उत्तराखंड मे बाढ़ से आयी तबाही के मंजर की आज 8 बर्ष हो चुके हैं,  
+परिस्थितियां बदल चुकी हैं सब कुछ पहले जैसा हो चूका हैं मगर अपनों को खोने का गम आज भी दिलो को झकझोर देता हैं।
+भोलेनाथ की महिमा अपार हैं, मित्रो सभी की  एक श्रद्धांजलि तो बनती  हैं https://t.co/7LOdA0inM1","16 जून 3013 को केदारनाथ घाटी समेत उत्तराखंड मे बाढ़ से आयी तबाही के मंजर की आज 8 बर्ष हो चुके हैं,  
+परिस्थितियां बदल चुकी हैं सब कुछ पहले जैसा हो चूका हैं मगर अपनों को खोने का गम आज भी दिलो को झकझोर देता हैं।
+भोलेनाथ की महिमा अपार हैं, मित्रो सभी की  एक श्रद्धांजलि तो बनती  हैं ","","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1482","2021-02-07 08:49:56+00:00","उत्तराखंड के चमोली जिले में ग्लेशियर फटने से आइ बाढ़ , ऋषि गंगा और तपोवन हाईड्रो प्रोजेक्ट पूरी तरह ध्वस्त हो गए ,
+
+लगभग 100 से   150 लोगों के हताहत होने की खबर , महादेव रक्षा करे 🙏 https://t.co/34PfggRAbo","उत्तराखंड के चमोली जिले में ग्लेशियर फटने से आइ बाढ़ , ऋषि गंगा और तपोवन हाईड्रो प्रोजेक्ट पूरी तरह ध्वस्त हो गए ,
+
+लगभग 100 से   150 लोगों के हताहत होने की खबर , महादेव रक्षा करे  ","","{
+  ""DEATHS"": ""लगभग 100 से   150 लोगों के हताहत"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""ऋषि गंगा और तपोवन हाईड्रो प्रोजेक्ट पूरी तरह ध्वस्त हो गए"",
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1500","2021-02-07 08:30:46+00:00","उत्तराखंड के चमोली में ग्लेशियर टूटने से धौली गंगा नदी में आया उफान, किनारे के मकान बहे, अब तक 150 मौतें, ऋषिगंगा पावर प्रोजक्ट को भारी नुकसान, कई मजदूर लापता, तपोवन बैराज, श्रीनगर डेम, ऋषिकेश डेम क्षतिग्रस्त, हरिद्वार में आ सकती है बाढ़। https://t.co/hzYw62DriJ","उत्तराखंड के चमोली में ग्लेशियर टूटने से धौली गंगा नदी में आया उफान, किनारे के मकान बहे, अब तक 150 मौतें, ऋषिगंगा पावर प्रोजक्ट को भारी नुकसान, कई मजदूर लापता, तपोवन बैराज, श्रीनगर डेम, ऋषिकेश डेम क्षतिग्रस्त, हरिद्वार में आ सकती है बाढ़। ","","{
+  ""DEATHS"": ""150 मौतें"",
+  ""MISSING"": ""कई मजदूर लापता"",
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""किनारे के मकान बहे; ऋषिगंगा पावर प्रोजक्ट को भारी नुकसान; तपोवन बैराज, श्रीनगर डेम, ऋषिकेश डेम क्षतिग्रस्त"",
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'B-MISSING', 'I-MISSING', 'I-MISSING', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1526","2021-02-09 18:04:35+00:00","7 फरवरी को उत्तराखंड के चमोली जिले में अलकनंदा की सहायक नदी क्षेत्र में हिम स्खलन की घटना घटी। जिसके कारण नदी के जलस्तर में काफी वृद्धि हो गई।
+
+अचानक आई बाढ़ से निचले क्षेत्र में धौलीगंगा नदी पर स्थित NTPC की निर्माणाधीन जल विद्युत परियोजना को भी नुकसान पहुंचा:  श्री @AmitShah जी https://t.co/BH1RCpOrly","7 फरवरी को उत्तराखंड के चमोली जिले में अलकनंदा की सहायक नदी क्षेत्र में हिम स्खलन की घटना घटी। जिसके कारण नदी के जलस्तर में काफी वृद्धि हो गई।
+
+अचानक आई बाढ़ से निचले क्षेत्र में धौलीगंगा नदी पर स्थित  की निर्माणाधीन जल विद्युत परियोजना को भी नुकसान पहुंचा:  श्री  जी ","","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""निर्माणाधीन जल विद्युत परियोजना को भी नुकसान"",
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O']"
+"1553","2021-03-16 03:44:30+00:00","@mygovindia @MoHFW_INDIA @drharshvardhan @AshwiniKChoubey @PIB_India @MIB_India @PrakashJavdekar कुम्भ में ३० लाख लोगों ने महाशिवरात्रि पर एक ही जगह स्नान किया, मास्क पहन कर किया क्या? उत्तराखंड या उत्तर प्रदेश में कोरोना केस की बाढ़ आ गयी क्या? 
+
+कोरोना के नाम पर सब चोचलेबाज़ियाँ चल रही हैं।","       कुम्भ में ३० लाख लोगों ने महाशिवरात्रि पर एक ही जगह स्नान किया, मास्क पहन कर किया क्या? उत्तराखंड या उत्तर प्रदेश में कोरोना केस की बाढ़ आ गयी क्या? 
+
+कोरोना के नाम पर सब चोचलेबाज़ियाँ चल रही हैं।","","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1558","2021-02-07 08:32:51+00:00","उत्तराखंड के जोशीमठ में ग्लेशियर फटने के बाद चारों तरफ तबाही का मंजर है। उत्तराखंड के मुख्य सचिव ओम प्रकाश ने बताया कि ग्लेशियर फटने के बाद चमोली जिले में बाढ़ से 100-150 लोगों के हताहत होने की आशंका है। #Uttarakhand #Chamoli #Joshimath https://t.co/WaZGlb2yeH","उत्तराखंड के जोशीमठ में ग्लेशियर फटने के बाद चारों तरफ तबाही का मंजर है। उत्तराखंड के मुख्य सचिव ओम प्रकाश ने बताया कि ग्लेशियर फटने के बाद चमोली जिले में बाढ़ से 100-150 लोगों के हताहत होने की आशंका है।","","{
+  ""DEATHS"": "" 100-150 लोगों के हताहत होने की आशंका"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""चारों तरफ तबाही का मंजर"",
+  ""HELP AND RELIEF"": NaN
+}","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O']"

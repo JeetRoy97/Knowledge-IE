@@ -1,0 +1,883 @@
+"id","Date","Tweet","cleaned_tweet","Json","Help and Relief Phrase","Damage Phrase","Loss Phrase","labels"
+"24","2023-02-20 18:13:51+00:00","तुर्की  सीरिया में  आया एक और बड़ा  भूकंप 🤔🤔
+
+https://t.co/85mNsKk08R","तुर्की  सीरिया में  आया एक और बड़ा  भूकंप 
+
+","{
+    ""DEATHS"": NaN,
+    ""MISSING"": NaN,
+    ""INJURED"": NaN,
+    ""TRAP"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": NaN
+}","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"40","2023-02-07 09:00:53+00:00","➡तुर्की सीरिया में भूकंप से मृतकों की संख्या पहुंची 5,000
+➡तुर्की में पांचवीं बार डोली धरती...
+
+#TurkeySyriaEarthquake #turkeyearthquake2023 #PrayForTurkey #PrayforSyria #PrayForAtsu #earthquake #earthquakeinturkey #TurkeyEarthquake #syriaearthquake #Siria #Jtv https://t.co/7wgRCKO3Nv","तुर्की सीरिया में भूकंप से मृतकों की संख्या पहुंची 5,000
+तुर्की में पांचवीं बार डोली धरती...
+
+   2023","{
+  ""DEATHS"": ""मृतकों की संख्या पहुंची 5,000"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","","","","['O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"137","2023-02-07 08:11:04+00:00","भूकंप से तुर्की-सीरिया में शहर-शहर तबाही, अब तक 5000+ मौतें, सड़कों पर शरण ले रहे लोग
+
+  ये वही तुर्की है जिसने केदारनाथ आपदा में कहा था की -
+ ""हिंदुओं के भगवान जब अपना धाम नही बचा सके तो भक्तों को कैसे बचाएंगे""","भूकंप से तुर्की-सीरिया में शहर-शहर तबाही, अब तक 5000+ मौतें, सड़कों पर शरण ले रहे लोग
+
+  ये वही तुर्की है जिसने केदारनाथ आपदा में कहा था की -
+ ""हिंदुओं के भगवान जब अपना धाम नही बचा सके तो भक्तों को कैसे बचाएंगे""","{
+  ""DEATHS"": ""अब तक 5000+ मौतें"",
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": ""सड़कों पर शरण ले रहे लोग"",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"144","2023-02-12 04:08:36+00:00","भूकंप से तबाह तुर्क़ी, सीरिया में मलबे से अब तक 28,192 शव मिले
+#TurkeyEarthquake https://t.co/DmJTtpDhWQ via @salamduniya2014","भूकंप से तबाह तुर्क़ी, सीरिया में मलबे से अब तक 28,192 शव मिले","{
+  ""DEATHS"": ""28,192 शव मिले"",
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS']"
+"151","2023-02-09 10:22:31+00:00","घातक तुर्की-सीरिया भूकंप से मरने वालों की संख्या 16000 के पार, और बढ़ने की संभावना
+.
+.
+.
+.
+#turkey #syria #earthquake #earthquakeinturkey #earthquakeinsyria #ubtworld #ubtnews #ubt #news https://t.co/tC79Ydfhq5","घातक तुर्की-सीरिया भूकंप से मरने वालों की संख्या 16000 के पार, और बढ़ने की संभावना
+.
+.
+.
+.","{
+  ""DEATHS"": ""मरने वालों की संख्या 16000 के पार"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","","","","['O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"235","2023-02-09 02:26:51+00:00","तुर्की, सीरिया में भूकंप से 12 हज़ार लोगों की मौत, अर्दोआन ने किया सरकार का बचाव
+
+स्टोरी: https://t.co/GpLSJe6XLV https://t.co/GBw9IZSyOQ","तुर्की, सीरिया में भूकंप से 12 हज़ार लोगों की मौत, अर्दोआन ने किया सरकार का बचाव
+
+स्टोरी:","{
+  ""DEATHS"": ""12 हज़ार लोगों की मौत"",
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"244","2023-02-20 17:44:03+00:00","तुर्की -सीरिया में फिर महसूस किए गए भूकंप के झटके, 6.4 आंकी गई तीव्रता https://t.co/HWETazc0lg https://t.co/HfzXPw1byP","तुर्की -सीरिया में फिर महसूस किए गए भूकंप के झटके, 6.4 आंकी गई तीव्रता","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"283","2023-02-11 04:48:09+00:00","तुर्की-सीरिया भूकंप में मरने वालों की संख्या 24,000 पार : बार-बार गलती मान रहे एर्दोगन, क्या है कारण? https://t.co/lKVihfJlCc","तुर्की-सीरिया भूकंप में मरने वालों की संख्या 24,000 पार : बार-बार गलती मान रहे एर्दोगन, क्या है कारण?","{
+  ""DEATHS"": ""मरने वालों की संख्या 24,000 पार"",
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"296","2023-02-08 05:47:50+00:00","तुर्की, सीरिया में भूकंप से मरने वालों की संख्या 7,800 के पार 
+
+https://t.co/EIgnc8gzdI 
+
+#TurkeySyriaearthquake #deathtoll #exceeds7800 #middleeast #earthquakeinturkey #sadaatimes","तुर्की, सीरिया में भूकंप से मरने वालों की संख्या 7,800 के पार 
+
+ 
+
+     7800","{
+    ""DEATHS"": ""मरने वालों की संख्या 7,800 के पार"",
+    ""MISSING"": NaN,
+    ""TRAP"": NaN,
+    ""INJURED"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O']"
+"370","2023-03-02 07:14:52+00:00","वसुधैव कुटुंबकम' केवल उपदेश नहीं है, जीवन में निभाने वाला धर्म है. और भारत के लोग यह कर रहे हैं.
+(कोरोना महामारी में वैक्सीन, श्रीलंका, युक्रेन संकट, तुर्की-सीरिया भूकंप में सहायता कार्य) https://t.co/2MX92MngHj","वसुधैव कुटुंबकम' केवल उपदेश नहीं है, जीवन में निभाने वाला धर्म है. और भारत के लोग यह कर रहे हैं.
+(कोरोना महामारी में वैक्सीन, श्रीलंका, युक्रेन संकट, तुर्की-सीरिया भूकंप में सहायता कार्य) ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""तुर्की-सीरिया भूकंप में सहायता कार्य""
+}","तुर्की-सीरिया भूकंप में सहायता कार्य","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"396","2023-02-07 03:29:21+00:00","@epanchjanya रामद्रोह
+कारगिल का मास्टर माइंड पेट में कीड़े पड़ने की गंभीर बीमारी से मर गया
+पाकिस्तान अफगानिस्तान बर्बाद
+लंका का बुरा हाल
+तुर्की सीरिया भूकंप से तबाह
+बांग्लादेश में भुखमरी
+राम ही बचायेंगे
+कुछ जाहिल गद्दार दलाल राम विरोध में घुसपैठ कब्जा धर्मांतरण जातिवाद आतंकवाद का खेला खेल रहे"," रामद्रोह
+कारगिल का मास्टर माइंड पेट में कीड़े पड़ने की गंभीर बीमारी से मर गया
+पाकिस्तान अफगानिस्तान बर्बाद
+लंका का बुरा हाल
+तुर्की सीरिया भूकंप से तबाह
+बांग्लादेश में भुखमरी
+राम ही बचायेंगे
+कुछ जाहिल गद्दार दलाल राम विरोध में घुसपैठ कब्जा धर्मांतरण जातिवाद आतंकवाद का खेला खेल रहे","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": ""बांग्लादेश में भुखमरी"",
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","बांग्लादेश में भुखमरी","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-FOOD SHORTAGE', 'I-FOOD SHORTAGE', 'I-FOOD SHORTAGE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"408","2023-02-09 15:07:43+00:00","भूकंप से मौत का आंकड़ा बढ़ा, तुर्की-सीरिया में अब तक 17 हजार से ज्यादा मौत अल्लाह रहीम करें 🤲🤲🤲🤲🤲","भूकंप से मौत का आंकड़ा बढ़ा, तुर्की-सीरिया में अब तक 17 हजार से ज्यादा मौत अल्लाह रहीम करें","{
+  ""DEATHS"": ""17 हजार से ज्यादा मौत"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O']"
+"481","2023-02-09 10:48:34+00:00","एक बड़े भूकंप के बाद दिल दहलाने वाले दृश्य, जिससे सामूहिक विनाश हुआ है 
+अल्लाह ﷻ तुर्की / सीरिया के लोगों पर रहम करे और उन्हें इस मुश्किल वक्त  में आसानी प्रदान करे।आप सभी से गुज़ारिश है कि वहां हमारे भाइयों और बहनों के लिए विशेष दुआ करें।#TurkeySyriaEarthquake @naqipradhan786 https://t.co/E31WCoNZUv","एक बड़े भूकंप के बाद दिल दहलाने वाले दृश्य, जिससे सामूहिक विनाश हुआ है 
+अल्लाह  तुर्की / सीरिया के लोगों पर रहम करे और उन्हें इस मुश्किल वक्त  में आसानी प्रदान करे।आप सभी से गुज़ारिश है कि वहां हमारे भाइयों और बहनों के लिए विशेष दुआ करें।   ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"514","2023-02-10 02:43:49+00:00","तुर्की-सीरिया भूकंप त्रासदी मामला
+विनाशकारी भूकंप में मरने वालों की संख्या 19300 से ज्यादा हुई
+ये संख्‍या जापान के फुकुशिमा त्रासदी में मरने वालों की संख्या से भी अधिक
+#earthquakeinturkey","तुर्की-सीरिया भूकंप त्रासदी मामला
+विनाशकारी भूकंप में मरने वालों की संख्या 19300 से ज्यादा हुई
+ये संख्या जापान के फुकुशिमा त्रासदी में मरने वालों की संख्या से भी अधिक","{
+  ""DEATHS"": ""मरने वालों की संख्या 19300 से ज्यादा"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"517","2023-02-11 06:33:31+00:00","Turkey Earthquake: भूकंप प्रभावित सीरिया और तुर्की को WHO ने भेजी स्वास्थ्य सामग्रियां, होगी इतने लोगों की मदद
+
+#विश्व_स्वास्थ्य_संगठन #भूकंप #तुर्की #सीरिया #स्वास्थ्य_सामग्रियां #WHO #Turkey #earthquake #syria #World_Health_Organization
+https://t.co/KLFwujndvB"," : भूकंप प्रभावित सीरिया और तुर्की को  ने भेजी स्वास्थ्य सामग्रियां, होगी इतने लोगों की मदद
+
+              __","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""ने भेजी स्वास्थ्य सामग्रियां, होगी इतने लोगों की मदद""
+}
+","स्वास्थ्य सामग्रियां, होगी इतने लोगों की मदद","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O']"
+"545","2023-02-07 04:40:47+00:00","भूकंप से तुर्की-सीरिया में शहर-शहर तबाही, अब तक 5000+ मौतें, सड़कों पर शरण ले रहे लोग
+ये वही तुर्की है जिसने केदारनाथ आपदा में कहा था की -
+ ""हिंदुओं के भगवान जब अपना धाम नही बचा सके तो भक्तों को कैसे बचाएंगे""
+और तुर्की तो खुद को सारे इस्लामों का खलीफा  मानता है l","भूकंप से तुर्की-सीरिया में शहर-शहर तबाही, अब तक 5000+ मौतें, सड़कों पर शरण ले रहे लोग
+ये वही तुर्की है जिसने केदारनाथ आपदा में कहा था की -
+ ""हिंदुओं के भगवान जब अपना धाम नही बचा सके तो भक्तों को कैसे बचाएंगे""
+और तुर्की तो खुद को सारे इस्लामों का खलीफा  मानता है","{
+  ""DEATHS"": ""5000+ मौतें"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,  ""AFFECTED POPULATION"": ""सड़कों पर शरण ले रहे लोग"",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""शहर-शहर तबाही"",
+  ""HELP AND RELIEF"": NaN
+}
+","","शहर-शहर तबाही","","['O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'B-DEATHS', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"619","2023-02-10 04:49:31+00:00","तुर्की-सीरिया भूकंप में मरने वालों का आंकड़ा  19300.. अल्लाह रहम फरमाए","तुर्की-सीरिया भूकंप में मरने वालों का आंकड़ा  19300.. अल्लाह रहम फरमाए","{
+  ""DEATHS"": ""मरने वालों का आंकड़ा 19300"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O']"
+"633","2023-02-08 06:43:27+00:00","तुर्की-सीरिया भूकंप के दौरान मलबे के नीचे एक नन्ही जिंदगी को बचाती हुई दूसरी जिंदगी
+#Turkey #TurkeyQuake #TurkeySyriaEarthquake #earthquakes #turkeyearthquake2023 https://t.co/zviFDadmV1","तुर्की-सीरिया भूकंप के दौरान मलबे के नीचे एक नन्ही जिंदगी को बचाती हुई दूसरी जिंदगी
+         2023","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": ""मलबे के नीचे एक नन्ही जिंदगी"",
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""बचाती हुई दूसरी जिंदगी""
+}
+","","","","['O', 'O', 'O', 'O', 'B-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O']"
+"636","2023-02-06 18:49:18+00:00","Turkey-Syria Earthquakes Update | तुर्की-सीरिया में भूकंप से हाहाकार, अब तक 2500 से अधिक लोगों की मौत, सैकड़ों मलबे में दबे https://t.co/ZvmGdz3aqv","-   | तुर्की-सीरिया में भूकंप से हाहाकार, अब तक 2500 से अधिक लोगों की मौत, सैकड़ों मलबे में दबे","{
+  ""DEATHS"": ""2500 से अधिक लोगों की मौत"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": ""सैकड़ों मलबे में दबे"",
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'B-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP']"
+"646","2023-02-08 11:33:19+00:00","Rajasthan: तुर्की-सीरिया भूकंप पीड़ितों की मदद करेगा राजस्थान फाउंडेशन, सीएम गहलोत की तारीफ की
+https://t.co/aD6OZmFyuU
+@RajCMO @ashokgehlot51 @INCRajasthan",": तुर्की-सीरिया भूकंप पीड़ितों की मदद करेगा राजस्थान फाउंडेशन, सीएम गहलोत की तारीफ की
+
+  ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""पीड़ितों की मदद करेगा राजस्थान फाउंडेशन""
+}
+","","","","['O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O', 'O']"
+"657","2023-02-08 03:03:58+00:00","#UPSC
+#तुर्की
+#सीरिया में भूकंप की आयी दर्दनाक तस्वीरें पूरे दिन मन को परेशान करती रही ।
+एक इमारत के मलबे में दबी ये गुड़िया 17 घंटे तक अपने छोटे भाई के सर को सहलाती रही और आख़िर में दोनों को सेफ़ निकाल लिया गया ।
+भारत सरकार ने भी #NDRF की टीम भेजी है
+#TurkeyEarthquake #Turkey https://t.co/OnZOAXSJm2","में भूकंप की आयी दर्दनाक तस्वीरें पूरे दिन मन को परेशान करती रही ।
+एक इमारत के मलबे में दबी ये गुड़िया 17 घंटे तक अपने छोटे भाई के सर को सहलाती रही और आख़िर में दोनों को सेफ़ निकाल लिया गया ।
+भारत सरकार ने भी   की टीम भेजी है","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": ""मलबे में दबी ये गुड़िया 17 घंटे तक अपने छोटे भाई के सर को सहलाती रही"",
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""भारत सरकार ने भी की टीम भेजी है""
+}
+","भारत सरकार ने भी   की टीम भेजी","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'I-TRAP', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"691","2023-02-09 00:44:07+00:00","तुर्की-सीरिया भूकंप से मरने वालों की संख्या 12,000 के पार, 40,000 से ज्यादा घायल
+#Turkey #TurkeyQuake https://t.co/NSXjxRP09p","तुर्की-सीरिया भूकंप से मरने वालों की संख्या 12,000 के पार, 40,000 से ज्यादा घायल","{
+  ""DEATHS"": ""12,000 के पार"",
+  ""MISSING"": NaN,
+  ""INJURED"": ""40,000 से ज्यादा"",
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'O', 'B-INJURED', 'I-INJURED', 'I-INJURED', 'O']"
+"704","2023-02-10 03:34:21+00:00","माशा अल्लाह...
+तुर्की-सीरिया भूकंप पीड़ितों की मदद के लिए सऊदी के लोगों ने दान मुहिम के दौरान कुछ ही घंटों में 70 मिलियन रियाल (15 अरब भारतीय रुपये से ज्यादा) इकट्ठा कर लिए..!!
+#Turkeyearthquake #SiriaEarthquake #Saudi","माशा अल्लाह...
+तुर्की-सीरिया भूकंप पीड़ितों की मदद के लिए सऊदी के लोगों ने दान मुहिम के दौरान कुछ ही घंटों में 70 मिलियन रियाल (15 अरब भारतीय रुपये से ज्यादा) इकट्ठा कर लिए..!!","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""सऊदी के लोगों ने दान मुहिम के दौरान कुछ ही घंटों में 70 मिलियन रियाल (15 अरब भारतीय रुपये से ज्यादा) इकट्ठा कर लिए""
+}
+","70 मिलियन रियाल (15 अरब भारतीय रुपये से ज्यादा) इकट्ठा","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O']"
+"714","2023-02-07 14:44:00+00:00","तुर्की-सीरिया में भूकंप से 5000 मौतें; भारत में आया तो कहां मचेगी ज्यादा तबाही, जोन 5 में बिहार समेत ये इलाके 
+
+#Turkey #TurkeyEarthquake 
+https://t.co/EPhDOz87n3","तुर्की-सीरिया में भूकंप से 5000 मौतें; भारत में आया तो कहां मचेगी ज्यादा तबाही, जोन 5 में बिहार समेत ये इलाके","{
+  ""DEATHS"": ""5000 मौतें"",
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","मचेगी ज्यादा तबाही","","['O', 'O', 'O', 'O', 'B-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"751","2023-02-07 08:19:50+00:00","तुर्की-सीरिया में आए भूकंप में मरने वालों की संख्या 5 हजार के पार 
+#TurkeyEarthquake #BREAKING https://t.co/3f0sTUKcg9","तुर्की-सीरिया में आए भूकंप में मरने वालों की संख्या 5 हजार के पार","{
+  ""DEATHS"": ""5 हजार के पार"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS']"
+"765","2023-02-07 03:09:07+00:00","तुर्की-सीरिया भूकंप: 2000 के बाद से दुनिया के सबसे घातक भूकंपों पर एक नज़र https://t.co/hJ2EwbjyUZ","तुर्की-सीरिया भूकंप: 2000 के बाद से दुनिया के सबसे घातक भूकंपों पर एक नज़र","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"770","2023-02-17 13:21:15+00:00","जहां जाते हैं 🙏 वहां के लोगों का दिल जीत कर आते हैं
+
+हम हैं हिन्दुस्तानी🙏 हम हैं #NDRF
+
+#तुर्की_सीरिया_में_भूकंप_पीड़ित_को_मदद_कर_हिन्दुस्तान_लौटे https://t.co/iFGiENtp9u","जहां जाते हैं  वहां के लोगों का दिल जीत कर आते हैं
+
+हम हैं हिन्दुस्तानी हम हैं  
+
+ ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"811","2023-02-11 03:06:30+00:00","तुर्की-सीरिया में भूकंप से अब तक 24 हज़ार से ज्यादा मौत
+
+एक लाख से ज्यादा लोगों का अस्पतालों में इलाज जारी 
+
+#TurkeySyriaEarthquake  #Turkeyearthquake #turkey https://t.co/Z8wojBy0ZO","तुर्की-सीरिया में भूकंप से अब तक 24 हज़ार से ज्यादा मौत
+
+एक लाख से ज्यादा लोगों का अस्पतालों में इलाज जारी","{
+  ""DEATHS"": ""24 हज़ार से ज्यादा मौत"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": ""एक लाख से ज्यादा लोगों का अस्पतालों में इलाज जारी"",
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'B-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES', 'I-HEALTH ISSUES']"
+"857","2023-02-12 03:40:24+00:00","तुर्की-सीरिया में इमारतों के मलबे से लाशों का निकलना जारी है। भूकंप से मरने वालों की संख्या 28 हजार के पार पहुंच गई है।
+#TurkeyEarthquake https://t.co/WWXovTIaFX","तुर्की-सीरिया में इमारतों के मलबे से लाशों का निकलना जारी है। भूकंप से मरने वालों की संख्या 28 हजार के पार पहुंच गई है।","{
+  ""DEATHS"": ""28 हजार के पार"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","मलबे से लाशों का निकलना जारी","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O']"
+"905","2023-02-08 13:48:28+00:00","तुर्की, सीरिया में भूकंप से मरने वालों की संख्या 11,000 से अधिक हो गई है.
+
+#TurkeySyriaEarthquake #syriaearthquake https://t.co/0kBAuaCBkA","तुर्की, सीरिया में भूकंप से मरने वालों की संख्या 11,000 से अधिक हो गई है.","{
+  ""DEATHS"": ""मरने वालों की संख्या 11,000 से अधिक हो गई है"",
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O']"
+"907","2023-02-20 18:08:27+00:00","विनाशकारी तुर्की-सीरिया भूकंप ने पृथ्वी को आधे में विभाजित कर दिया।  विशाल 100 फीट गहरी और 650 फीट चौड़ी दरार पर एक नज़र डालें, जो तुर्की के हटे प्रांत में भूकंप से खुल गई:
+#TurkeySyriaEarthquake https://t.co/5j7z2Jil0z","विनाशकारी तुर्की-सीरिया भूकंप ने पृथ्वी को आधे में विभाजित कर दिया।  विशाल 100 फीट गहरी और 650 फीट चौड़ी दरार पर एक नज़र डालें, जो तुर्की के हटे प्रांत में भूकंप से खुल गई:","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","","विनाशकारी तुर्की-सीरिया भूकंप ने पृथ्वी को आधे में विभाजित कर दिया","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1002","2023-02-24 02:52:50+00:00","तुर्की, सीरिया, अफगानिस्तान, ताजिकिस्तान और चीन के बाद अब #Indonesia के टोबेलो में भूकंप के तेज झटके महसूस किए गए हैं। खबरों के मुताबिक, इसकी तीव्रता 6.3 बताई गई है।   #Earthquake https://t.co/yqmMRdz91q","तुर्की, सीरिया, अफगानिस्तान, ताजिकिस्तान और चीन के बाद अब   के टोबेलो में भूकंप के तेज झटके महसूस किए गए हैं। खबरों के मुताबिक, इसकी तीव्रता 6.3 बताई गई है।","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1004","2023-02-10 06:37:52+00:00","मानवता से मानव का जीतते हैं दिल
+      दोस्तों हम हैं हिन्दुस्तानी
+कांटों के बदले भी बनाते हैं संगदिल 
+    
+जय हिन्द 🙏 जय मानवता
+
+#तुर्की_सीरिया_भूकंप_में_हिन्दुस्तानी_मदद https://t.co/mZRnpHrpPZ","मानवता से मानव का जीतते हैं दिल
+      दोस्तों हम हैं हिन्दुस्तानी
+कांटों के बदले भी बनाते हैं संगदिल 
+    
+जय हिन्द  जय मानवता
+
+ ","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1010","2023-02-08 06:02:21+00:00","तुर्की-सीरिया में आए भूकंप में मरने वालों की संख्या 7900 के पार, बढ़ सकता है जान गंवाने वालों का आकड़ा.. 
+
+#Turkey #TurkeyEarthquake #TurkeyQuake #TurkeySyriaEarthquake https://t.co/pCteAZcwiM","तुर्की-सीरिया में आए भूकंप में मरने वालों की संख्या 7900 के पार, बढ़ सकता है जान गंवाने वालों का आकड़ा..","{
+  ""DEATHS"": ""मरने वालों की संख्या 7900 के पार"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1015","2023-02-20 17:25:27+00:00","तुर्की सीरिया बॉर्डर पर फिर 6.3 मैग्नीट्यूड का भूकंप
+
+@umashankarsingh","तुर्की सीरिया बॉर्डर पर फिर 6.3 मैग्नीट्यूड का भूकंप","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1021","2023-02-06 18:35:05+00:00","तुर्की-सीरिया भूकंप में 2,600 से अधिक लोगों की मौत, यहां बताया गया है कि यह इतना शक्तिशाली क्यों था https://t.co/3QMNCTZZMT","तुर्की-सीरिया भूकंप में 2,600 से अधिक लोगों की मौत, यहां बताया गया है कि यह इतना शक्तिशाली क्यों था","{
+    ""DEATHS"": ""2,600 से अधिक लोगों की मौत"",
+    ""MISSING"": NaN,
+    ""INJURED"": NaN,
+    ""TRAP"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1106","2023-02-21 04:12:54+00:00","तुर्की सीरिया में फिर से भूकंप के तेज झटके।
+
+रिक्टर स्केल पर तीव्रता 6.3 मापी गई।","तुर्की सीरिया में फिर से भूकंप के तेज झटके।
+
+रिक्टर स्केल पर तीव्रता 6.3 मापी गई।","{
+    ""DEATHS"": NaN,
+    ""MISSING"": NaN,
+    ""INJURED"": NaN,
+    ""TRAP"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1135","2023-02-08 12:29:38+00:00","तुर्की, सीरिया में भूकंप से मरने वालों का आंकड़ा 8700 के पार
+https://t.co/rciiTXbRkn","तुर्की, सीरिया में भूकंप से मरने वालों का आंकड़ा 8700 के पार","{
+  ""DEATHS"": ""मरने वालों का आंकड़ा 8700 के पार"",
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS']"
+"1142","2023-02-07 04:31:13+00:00","तुर्की-सीरिया में प्रलय से महाविनाश, 3400 से ज्यादा लोगों की मौत, 3500 घर जमींदोज
+
+तुर्की में सोमवार को एक के बाद एक भूकंप के तीन झटकों से देश दहल गया. अकेले तुर्की में अब तक 1651 लोगों की मौत हो चुकी है और सीरिया में भी मौत का आंकड़ा 1000 पार हो गया है. प्रभुरक्षाकरें🙏🙏 https://t.co/vTuPbmWEIk","तुर्की-सीरिया में प्रलय से महाविनाश, 3400 से ज्यादा लोगों की मौत, 3500 घर जमींदोज
+
+तुर्की में सोमवार को एक के बाद एक भूकंप के तीन झटकों से देश दहल गया. अकेले तुर्की में अब तक 1651 लोगों की मौत हो चुकी है और सीरिया में भी मौत का आंकड़ा 1000 पार हो गया है. प्रभुरक्षाकरें","{
+  ""DEATHS"": ""3400 से ज्यादा लोगों की मौत, अकेले तुर्की में अब तक 1651 लोगों की मौत हो चुकी है और सीरिया में भी मौत का आंकड़ा 1000 पार हो गया है"",
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""3500 घर जमींदोज"",
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O']"
+"1171","2023-02-07 15:42:30+00:00","तुर्की-सीरिया मे आए भूकंप में भारत द्वारा मानवीय राहत देना यह सराहनीय है! 
+#ओछी मानसिकता तब हो जाति है,जब इसका इस्तेमाल मोदी के छबी के लिए किया जाए!
+@narendramodi @PMOIndia @BJP4India @ravishndtv @BBCHindi @thewire_in @TheLallantop @ABPNews @DeepakChurasiy5 @AmanChopra_ @aajtak","तुर्की-सीरिया मे आए भूकंप में भारत द्वारा मानवीय राहत देना यह सराहनीय है! 
+ मानसिकता तब हो जाति है,जब इसका इस्तेमाल मोदी के छबी के लिए किया जाए!
+          ","{
+    ""DEATHS"": NaN,
+    ""MISSING"": NaN,
+    ""TRAP"": NaN,
+    ""INJURED"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": ""भारत द्वारा मानवीय राहत देना""
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1183","2023-02-15 08:28:00+00:00","WHO- तुर्की, सीरिया में आया भूकंप यूरोपीय क्षेत्र में सदी की ‘सबसे खराब प्राकृतिक आपदा’ https://t.co/mJbcxIB3u5","- तुर्की, सीरिया में आया भूकंप यूरोपीय क्षेत्र में सदी की ‘सबसे खराब प्राकृतिक आपदा’ ","{
+    ""DEATHS"": NaN,
+    ""MISSING"": NaN,
+    ""TRAP"": NaN,
+    ""INJURED"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1254","2023-02-07 07:51:22+00:00","#TurkeyEarthquake: तुर्की, सीरिया में भूकंप से 4,300 से ज्यादा लोगों की मौत, #भारत मदद के साथ भेज रहा है राहत एवं बचाव दल
+
+https://t.co/MLlg5jhag1
+
+#TurkeyEarthquake #SyriaEarthquake #SyriaQuake #TurkeyQuake #Turkiye #India #NDRF #Adana #Turkey #Syria",": तुर्की, सीरिया में भूकंप से 4,300 से ज्यादा लोगों की मौत,  मदद के साथ भेज रहा है राहत एवं बचाव दल","{
+    ""DEATHS"": ""4,300 से ज्यादा लोगों की मौत"",
+    ""MISSING"": NaN,
+    ""TRAP"": NaN,
+    ""INJURED"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": ""मदद के साथ भेज रहा है राहत एवं बचाव दल""
+}
+","मदद के साथ भेज रहा है राहत एवं बचाव दल","","","['O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"1264","2023-02-08 14:38:16+00:00","Turkey Syria Earthquake: तुर्की-सीरिया भूकंप में 8300 से ज्यादा मौतें, 11 हजार इमारतें गिरीं, रेस्क्यू में 55 हजार बचावकर्मी जुटे https://t.co/95S8WGVpl7
+
+Download the Aaj Tak app now to read our latest stories
+https://t.co/7v95cBEgWU",": तुर्की-सीरिया भूकंप में 8300 से ज्यादा मौतें, 11 हजार इमारतें गिरीं, रेस्क्यू में 55 हजार बचावकर्मी जुटे","{
+    ""DEATHS"": ""8300 से ज्यादा मौतें"",
+    ""MISSING"": NaN,
+    ""TRAP"": NaN,
+    ""INJURED"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": ""11 हजार इमारतें गिरीं"",
+    ""HELP AND RELIEF"": ""रेस्क्यू में 55 हजार बचावकर्मी जुटे""
+}
+","रेस्क्यू में 55 हजार बचावकर्मी जुटे","11 हजार इमारतें गिरीं","","['O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"1322","2023-02-07 13:29:54+00:00","तुर्की-सीरिया भूकंप लाइव अपडेट: पहले 7.8 तीव्रता के भूकंप के बाद से, इस क्षेत्र में पांच बड़े भूकंप देखे गए हैं, जिन्होंने पूरे अपार्टमेंट ब्लॉकों को गिरा दिया है, अस्पतालों को नष्ट कर दिया है और हजारों घायल या बेघर हो गए हैं। https://t.co/gmGtJ1S83V","तुर्की-सीरिया भूकंप लाइव अपडेट: पहले 7.8 तीव्रता के भूकंप के बाद से, इस क्षेत्र में पांच बड़े भूकंप देखे गए हैं, जिन्होंने पूरे अपार्टमेंट ब्लॉकों को गिरा दिया है, अस्पतालों को नष्ट कर दिया है और हजारों घायल या बेघर हो गए हैं।","{
+    ""DEATHS"": NaN,
+    ""MISSING"": NaN,
+    ""INJURED"": ""हजारों घायल"",
+    ""TRAP"": NaN,
+    ""AFFECTED POPULATION"": ""बेघर हो गए हैं"",
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": ""पूरे अपार्टमेंट ब्लॉकों को गिरा दिया है, अस्पतालों को नष्ट कर दिया है"",
+    ""HELP AND RELIEF"": NaN
+}
+","","अस्पतालों को नष्ट कर दिया","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'B-INJURED', 'I-INJURED', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O']"
+"1351","2023-02-07 13:42:44+00:00","तुर्की-सीरिया #भूकंप
+
+ 🔴 5300+ मृत,
+
+ 🔴 32,500+ घायल,
+
+ 🔴 4500+ इमारतें ढह गईं,
+
+ 🔴 350,000+ घरों के बिना,
+
+ 🔴 तुर्की ने 10  प्रांतों में 3 महीने के लिए आपातकाल की घोषणा की,
+ 🟢 10,000 बचाए गए,
+
+ 🟢दुनिया मदद के लिए एकजुट हो गई है,
+
+ #TurkeyEarthquake 
+वसुधैव कुटुंबकम् 👇 https://t.co/voX7G9vvIi","तुर्की-सीरिया 
+
+  5300+ मृत,
+
+  32,500+ घायल,
+
+  4500+ इमारतें ढह गईं,
+
+  350,000+ घरों के बिना,
+
+  तुर्की ने 10  प्रांतों में 3 महीने के लिए आपातकाल की घोषणा की,
+  10,000 बचाए गए,
+
+ दुनिया मदद के लिए एकजुट हो गई है,
+
+   
+वसुधैव कुटुंबकम्","{
+    ""DEATHS"": ""5300+ मृत"",
+    ""MISSING"": NaN,
+    ""INJURED"": ""32,500+ घायल"",
+    ""TRAP"": NaN,
+    ""AFFECTED POPULATION"": ""350,000+ घरों के बिना"",
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": ""4500+ इमारतें ढह गईं"",
+    ""HELP AND RELIEF"": ""10,000 बचाए गए, दुनिया मदद के लिए एकजुट हो गई है""
+}
+","","4500+ इमारतें ढह गईं","","['O', 'B-DEATHS', 'O', 'B-INJURED', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O']"
+"1396","2023-02-13 09:50:38+00:00","भूकंप से बहुत भारी तबाही तुर्की सीरिया Ghar kar gadi 😭 earthquake https://t.co/weOuLYgY4r via @YouTube","भूकंप से बहुत भारी तबाही तुर्की सीरिया","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""बहुत भारी तबाही"",
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O']"
+"1399","2023-02-08 05:15:21+00:00","तुर्की-सीरिया में आए विनाशकारी भूकंप में मरने वालों की संख्या 7900 के पार हो गयी है। अभी यहां पर मृतकों की संख्या में और इजाफा होने की आशंका है।  
+#earthquakes
+यहां पढ़ें 👇
+
+https://t.co/hPkdF8p9Sb","तुर्की-सीरिया में आए विनाशकारी भूकंप में मरने वालों की संख्या 7900 के पार हो गयी है। अभी यहां पर मृतकों की संख्या में और इजाफा होने की आशंका है।  
+ 
+यहां पढ़ें","{
+  ""DEATHS"": ""मरने वालों की संख्या 7900 के पार"",
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1403","2023-02-09 18:43:01+00:00","तुर्की-सीरिया भूकंप पीड़ितों की मदद के लिए सऊदी के लोगों ने दान मुहिम के दौरान कुछ ही घंटों में 70 मिलियन रियाल (15 अरब भारतीय रुपये से ज्यादा) इकट्ठा कर लिए
+#TurkeyEarthquake #SiriaEarthquake #Saudi https://t.co/qlVyECRRVq","तुर्की-सीरिया भूकंप पीड़ितों की मदद के लिए सऊदी के लोगों ने दान मुहिम के दौरान कुछ ही घंटों में 70 मिलियन रियाल (15 अरब भारतीय रुपये से ज्यादा) इकट्ठा कर लिए","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""सऊदी के लोगों ने दान मुहिम के दौरान कुछ ही घंटों में 70 मिलियन रियाल (15 अरब भारतीय रुपये से ज्यादा) इकट्ठा कर लिए""
+}
+","70 मिलियन रियाल (15 अरब भारतीय रुपये से ज्यादा) इकट्ठा कर लिए","","","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"1458","2023-02-12 06:42:29+00:00","तुर्की-सीरिया भूकंप पीड़ितों के लिए एक्ट्रेस Angelina Jolie ने बढ़ाया मदद भरा हाथ https://t.co/81Fwrwrpmz","तुर्की-सीरिया भूकंप पीड़ितों के लिए एक्ट्रेस   ने बढ़ाया मदद भरा हाथ","{
+    ""DEATHS"": NaN,
+    ""MISSING"": NaN,
+    ""INJURED"": NaN,
+    ""TRAP"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": ""एक्ट्रेस ने बढ़ाया मदद भरा हाथ""
+}
+","ढ़ाया मदद भरा हाथ","","","['O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"1467","2023-02-08 06:24:24+00:00","तुर्की-सीरिया भूकंप में मृतकों की संख्या 8000 पार, 3 महीने की इमरजेंसी
+
+#TurkeyEarthquake #syriaearthquake #Emergency  #earthquakes #earthquakeinturkey #Syrie https://t.co/WA44KrbyWL","तुर्की-सीरिया भूकंप में मृतकों की संख्या 8000 पार, 3 महीने की इमरजेंसी","{
+    ""DEATHS"": ""मृतकों की संख्या 8000 पार"",
+    ""MISSING"": NaN,
+    ""INJURED"": NaN,
+    ""TRAP"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": NaN
+}
+","","","","['O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O', 'O', 'O']"

@@ -1,0 +1,293 @@
+"id","disaster","Title","Link","text","chatgpt annotation","date","labels"
+"75","Amphan-Cyclone","अम्फान प्रभावित इलाकों में आवश्यक सेवाओं के लिये बंगाल ने मांगी सेना की मददपश्चिम बंगाल ने राज्य में 'अम्फान चक्रवात से प्रभावित इलाकों में आवश्यक सेवाओं की बहाली के लिए शनिवार को सेना, रेलवे और बंदरगाह से मदद मांगी है। सरकार ने निजी संस्थाओं से भी इस उद्देश्य के लिये...Sat, 23 May 2020 06:51 PM","https://www.livehindustan.com/national/story-bengal-seeks-army-s-help-for-essential-services-in-amphan-affected-areas-3233722.html","” विभाग ने कहा कि पीने का पानी और पानी की निकासी के लिए आधारभूत ढांचे को तेजी से बहाल किया जा रहा है और लोक स्वास्थ्य अभियांत्रिकी विभाग से उन इलाकों में पानी की थैलियां वितरित करने के कहा गया है जहां अभी समस्या है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN , ""HELP AND RELIEF"": ""लोक स्वास्थ्य अभियांत्रिकी विभाग से उन इलाकों में पानी की थैलियां वितरित करने के कहा गया है जहां अभी समस्या है"" }","5/23/20 13:21","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"107","Amphan-Cyclone","अम्फान तूफान ने बंगाल में मचाई तबाही, मदद के लिए पहुंचीं सांसद नुसरत जहांपूरा देश कोरोना वायरस से पहले ही परेशान है और हाल ही में अम्फान तूफान ने पश्चिम बंगाल और ओडिशा में तबाही मचा दी है। अम्फान तूफान के बाद पश्चिम बंगाल और ओडिशा में बचाव कार्य जारी है और इस...Sat, 23 May 2020 12:51 PM","https://www.livehindustan.com/entertainment/story-mp-nusrat-jhan-visited-worst-hit-areas-of-her-constituency-basirhat-after-amphan-cyclone-3233082.html","आप सभी से ये रिक्वेस्ट है कि आप भी ऐसे लोगों की मदद करें","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": ""ऐसे लोगों की मदद करें"" }","5/23/20 7:21","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"289","Amphan-Cyclone","अम्फान ने पश्चिम बंगाल, ओडिशा में मचाई भारी तबाही, कम से कम 9 लोगों की मौत, राहत और बचाव का अभियान शुरूबंगाल की खाड़ी में दशकों के सबसे बड़े साइक्लोन अम्फान ने ओडिशा, पश्चिम बंगाल में भारी तबाही मचाई है। अब तक कम से कम 9 लोगों की जान ले चुका है तो हजारों की संख्या में पेड़, खंभे जड़ से उखाड़ दिए।...Thu, 21 May 2020 07:56 AM","https://www.livehindustan.com/west-bengal/story-amphan-cyclone-latest-update-in-bengal-odisha-and-bangladesh-photos-and-videos-3228531.html","तूफान में कमजोरी के बाद अब राहत और बचाव का काम शुरू कर दिया गया है","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""राहत और बचाव का काम शुरू""
+}","5/21/20 2:26","['O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O']"
+"538","Amphan-Cyclone","कुछ कमजोर पड़ा सुपर साइक्लोन 'अम्फान', फिर भी बंगाल और ओडिशा अलर्ट पर, NDRF की 41 टीमें तैनातमहाचक्रवात 'अम्फान' मंगलवार (19 मई) को कुछ कमजोर पड़कर 'अत्यंत भीषण चक्रवाती तूफान में बदल गया लेकिन अभी भी यह इतना ताकतवर बना हुआ है कि यह पश्चिम बंगाल और ओडिशा के तटीय जिलों में नुकसान...Wed, 20 May 2020 04:26 AM","https://www.livehindustan.com/national/story-cyclone-amphan-3-lakh-people-evacuated-ndrf-41-team-west-bengal-odisha-3226293.html","इन दोनों राज्यों में सतर्कता बरती जा रही है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","5/19/20 22:56","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"601","Cyclone-Idai","FLOOD: इंडोनिशया के पापुआ में बाढ़ से 63 लोगों की मौतइंडोनिशया के पूर्वी प्रांत पापुआ में अचानक आई बाढ़ से कम से कम 50 लोगों की मौत हो गई है। अधिकारियों ने रविवार को बताया कि प्रांतीय राजधानी जयपुरा के पास स्थित सेंतानी में शनिवार को भारी बारिश के चलते...Mon, 18 Mar 2019 12:56 AM","https://www.livehindustan.com/international/story-papua-flood-63-people-killed-in-floods-in-papua-indonesia-2452071.html","उन्होंने कहा, '' हताहत हुए लोगों की संख्या तथा आपदा से नुकसान अभी और बढ़ सकता है क्योंकि तलाश एवं बचाव दल अब भी प्रभावित इलाकों तक पहुंचने की कोशिश कर रहे हैं","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""तलाश एवं बचाव दल अब भी प्रभावित इलाकों तक पहुंचने की कोशिश कर रहे""
+}","3/17/19 19:26","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O']"
+"604","Cyclone-Idai","FLOOD: इंडोनिशया के पापुआ में बाढ़ से 63 लोगों की मौतइंडोनिशया के पूर्वी प्रांत पापुआ में अचानक आई बाढ़ से कम से कम 50 लोगों की मौत हो गई है। अधिकारियों ने रविवार को बताया कि प्रांतीय राजधानी जयपुरा के पास स्थित सेंतानी में शनिवार को भारी बारिश के चलते...Mon, 18 Mar 2019 12:56 AM","https://www.livehindustan.com/international/story-papua-flood-63-people-killed-in-floods-in-papua-indonesia-2452071.html","हालांकि, अधिकारी अब भी लोगों को सुरक्षित स्थान पर पहुंचाने की कोशिश कर रहे हैं","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""लोगों को सुरक्षित स्थान पर पहुंचाने की कोशिश कर रहे""
+}","3/17/19 19:26","['O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O']"
+"617","Cyclone-Idai","Cyclone Idai: जिम्बाब्वे में चक्रवात में कम से कम 150 लोगों की मौतपूर्वी जिम्बाब्वे में शुक्रवार को आए चक्रवात ‘इडाई’ में कम से कम 150 लोगों की मौत हो गई है और दर्जनों लोग लापता हैं। जिम्बाब्वे सरकार ने शनिवार को यह जानकारी दी है। 15 लाख से ज्यादा लोग...Sun, 17 Mar 2019 01:33 AM","https://www.livehindustan.com/international/story-cyclone-idai-at-least-31-people-died-in-cyclone-in-zimbabwe-more-than-100-missing-2450413.html","तूफान के दौरान मोजाम्बिक सीमा से लगे मनिकालैंड प्रांत में कई घर क्षतिग्रस्त हो गए तथा कई पुल बह गए","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": ""कई घर क्षतिग्रस्त हो गए तथा कई पुल बह गए"", ""HELP AND RELIEF"": NaN }","3/16/19 20:03","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE']"
+"630","Cyclone-Idai","जम्मू कश्मीर में फंसे हुए करीब 900 यात्रियों को बाहर निकाला गयाजम्मू, श्रीनगर और उधमपुर से शनिवार को फंसे हुये करीब 900 यात्रियों को विमान के जरिए बाहर निकाला गया। इन यात्रियों में से अधिकतर लद्दाख के निवासी हैं। एक अधिकारी ने यह जानकारी दी।
+
+करगिल कुरियर...Sun, 17 Mar 2019 01:33 AM","https://www.livehindustan.com/national/story-about-900-stranded-passengers-rescued-in-jammu-kashmir-2450676.html","सर्दी के मौसम में भारी बर्फबारी के कारण 434 किलोमीटर लंबे श्रीनगर-लेह राष्ट्रीय राजमार्ग बंद होने के चलते देश के शेष हिस्से के कट गये लद्दाख के निवासियों को एक विकल्प मुहैया कराने के लिए एएन-32 करगिल कुरियर सेवा शुरू की गयी","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": ""434 किलोमीटर लंबे श्रीनगर-लेह राष्ट्रीय राजमार्ग बंद"", ""HELP AND RELIEF"": ""एएन-32 करगिल कुरियर सेवा शुरू की गयी"" }","3/16/19 20:03","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"632","Australia-wildfire","बारिश ने ऑस्ट्रेलिया के जंगलों में लगी आग बुझाई, अब मंडराया बाढ़ का खतराबारिश और आंधी तूफान ने पूर्वी ऑस्ट्रेलिया के जंगलों में लंबे समय से लगी आग को काफी हद तक बुझा दिया है, लेकिन इससे कुछ क्षेत्रों में बाढ़ आने की आशंका पैदा हो गई है।
+
+देश के दक्षिण और दक्षिण-पूर्व...Sun, 19 Jan 2020 01:39 AM","https://www.livehindustan.com/international/story-after-bushfires-relief-as-rain-falls-over-australia-now-will-face-flood-2969519.html","बारिश और आंधी तूफान ने पूर्वी ऑस्ट्रेलिया के जंगलों में लंबे समय से लगी आग को काफी हद तक बुझा दिया है, लेकिन इससे कुछ क्षेत्रों में बाढ़ आने की आशंका पैदा हो गई है","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": ""पूर्वी ऑस्ट्रेलिया के जंगलों में लंबे समय से लगी आग"",
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","1/18/20 20:09","['O', 'O', 'O', 'O', 'O', 'B-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"639","Australia-wildfire","जंगलों में भीषण आग की तपिश झेल रहे ऑस्ट्रेलिया को बारिश से राहतजंगलों में लगी भीषण आग की तपिश झेल रहे पूर्वी ऑस्ट्रेलिया को बृहस्पतिवार (16 जनवरी) को बारिश से राहत मिली तथा अभी और बारिश होने की उम्मीद है। ऑस्ट्रेलिया के जंगलों में लगी भीषण आग में 28 लोगों की जान...Fri, 17 Jan 2020 01:48 AM","https://www.livehindustan.com/international/story-australia-wildfire-relief-as-rain-falls-over-australian-bushfires-2965461.html","जंगलों में लगी भीषण आग की तपिश झेल रहे पूर्वी ऑस्ट्रेलिया को बृहस्पतिवार (16 जनवरी) को बारिश से राहत मिली तथा अभी और बारिश होने की उम्मीद है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": ""जंगलों में लगी भीषण आग"", ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN }","1/16/20 20:18","['B-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'I-PLANT AND ANIMAL LOSS', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"660","Australia-wildfire","Australia Wildfire: आग पर काबू पाने की कोशिश के दौरान दमकलकर्मी की मौत, मरने वालों की संख्या बढ़कर 27 हुईऑस्ट्रेलिया में जंगल की आग के संकट से पूरी रात जूझ रहा एक दमकलकर्मी अचानक एक पेड़ के गिर जाने की घटना में उसकी चपेट में आकर मारा गया। वहीं आस्ट्रेलिया के प्रधानमंत्री ने रविवार (12 जनवरी) को कहा कि...Mon, 13 Jan 2020 02:02 AM","https://www.livehindustan.com/international/story-australia-wildfire-firefighter-dies-as-australia-works-on-long-term-battle-plan-2956830.html","उन्होंने बताया कि 60 वर्षीय स्लेड को पिछले साल नवंबर में वन एजेंसी में उनकी 40 साल की सेवा के लिए सराहा गया था","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","1/12/20 20:32","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"703","Australia-wildfire","Australia Wildfire: शहरों के लिए ऑस्ट्रेलिया ने जहाजों के जरिये भेजा खानाऑस्ट्रेलिया सरकार ने जंगलों में लगी से प्रभावित लोगों की मदद के लिए बुधवार (1 जनवरी) को सैन्य पोत और विमान तैनात किए। न्यू साउथ वेल्स और विक्टोरिया राज्य के शहरों में इस आग ने घरों को तबाह कर दिया है...Thu, 02 Jan 2020 03:20 AM","https://www.livehindustan.com/international/story-australia-wildfire-australia-sending-aid-by-sea-to-towns-cut-off-by-wildfires-2934787.html","इस आग ने ऑस्ट्रेलिया के दक्षिण पूर्वी तट पर साउथ वेल्स और विक्टोरिया राज्यों में तबाही मचाई है","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""तबाही मचाई"",
+  ""HELP AND RELIEF"": NaN
+}","1/1/20 21:50","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'O']"
+"735","Bengaluru-flood","दिवाली पर फिर से डूबेगा बेंगलुरु? सड़कों पर बाढ़, 5 दिन का अलर्ट; कई राज्यों में होगी बारिशआईटी सिटी बेंगलुरु में फिर से जमकर बारिश हुई है। इसके चलते सड़कों पर पानी भर गया है और कई जगहों पर दीवारें तक गिर गई हैं। इसके चलते सड़क पर पार्क हुई गाड़ियों को भी नुकसान पहुंचा है।Thu, 20 Oct 2022 09:47 AM","https://www.livehindustan.com/national/story-heavy-rain-again-in-bengaluru-flood-like-situation-rain-in-many-states-7244891.html","दिवाली से पहले एक बार फिर से बेंगलुरु में वैसे ही हालात बन सकते हैं","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","10/20/22 4:17","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"794","Bengaluru-flood","बेंगलुरू की बाढ़ फेर न दे सियासी अरमानों पर पानी, चिंता में कर्नाटक के राजनीतिक दलकर्नाटक में नजदीक आते विधानसभा चुनाव से पहले आई बाढ़ ने यहां के राजनीतिक दलों की चिंता बढ़ा दी है। बाढ़ के चलते जिस तरह से शहर की बुनियादी सुविधाओं की पोल खुली है, उससे राजनीतिक दल परेशान हैं।Sun, 11 Sep 2022 04:41 PM","https://www.livehindustan.com/national/story-bengaluru-heavy-rain-and-flood-rises-tension-of-political-parties-in-view-of-upcoming-elections-7065508.html","उन्होंने कहा कि बहरहाल, सत्तारूढ़ पार्टी के लिए चुनाव की राह मुश्किल होने जा रही है, क्योंकि वह जन आक्रोश के केंद्र में है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","9/11/22 11:11","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"851","Bengaluru-flood","बेंगलुरु में बाढ़ के पानी में गिरी लड़की, मदद के लिए चिल्लाती रही; करंट लगने से मौतबेंगलुरू में भारी बारिश के बीच एक दर्दनाक हादसा हो गया। एक 23 साल की युवती की करंट लगने की वजह से मौत हो गई। वह सड़क पर गिर गई जिसके बाद करंट की चपेट में आ गई।Tue, 06 Sep 2022 07:18 PM","https://www.livehindustan.com/national/story-bengaluru-flood-woman-electrocuted-on-waterlogged-road-died-7042287.html","इसी तरह एक 30 साल के और एक 40 साल के शख्स की भी अचानक करंट लगने से मौत हो गई थी","{
+  ""DEATHS"": ""एक 30 साल के और एक 40 साल के शख्स की भी अचानक करंट लगने से मौत हो गई थी"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","9/6/22 13:48","['O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS']"
+"949","Bengaluru-flood","भारी बारिश से क्यों बेहाल है कर्नाटक? बाढ़ में डूबा बेंगलुरु, मौसम विभाग का अलर्टकर्नाटक में अगले पांच दिनों तक भारी बारिश का अलर्ट जारी किया गया है। मौसम विभाग के मुताबिक कर्नाटक में इस कहर के  पीछ शीर जोन है जो कि समंदर से 5-6 किमी की ऊंचाई पर बना हुआ है।Mon, 05 Sep 2022 07:21 PM","https://www.livehindustan.com/national/story-why-heavy-rain-in-karnataka-bengaluru-flood-imd-alert-shear-zone-7037753.html","अधिकारियों से कहा गया है कि  महादेवापुरा और बोम्मानाहल्ली  सबसे ज्यादा प्रभावित हुआ है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","9/5/22 13:51","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1116","Gujarat-flood","ना खाने का ठिकाना, ना शौच का इंतजाम; गुजरात में बाढ़ से कोहराम: 3 दिन से भूख-प्यास से विलख रहे बच्चेराज्य के कुछ हिस्सों में बुधवार को लगातार चौथे दिन भी बारिश जारी है। वहीं, बाढ़ प्रभावित इलाकों में से 8500 लोगों को बचाकर सुरक्षित स्थानों पर पहुंचाया गया है। इस बीच, PM मोदी ने CM भूपेंद्र पटेल से फोन पर बात कर स्थिति का जायजा लिया और इस संकट में केंद्र की ओर से हर संभव सहायता का आश्वासन दिया है।Wed, 28 Aug 2024 06:51 PM","https://www.livehindustan.com/national/gujarat-flood-wreak-havoc-nothing-to-eat-nor-toilet-facilities-children-crying-from-hunger-and-thirst-for-three-days-201724849517721.html","पटेल ने कहा, ''प्रधानमंत्री गुजरात में बाढ़ की स्थिति को लेकर चिंतित हैं और लगातार स्थिति पर नजर रख रहे हैं","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","8/28/24 13:21","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1387","Gujarat-flood","गुजरात के जूनागढ़ में बारिश से हाहाकार, पानी में बह गईं कारें; तेज बहाव में नहीं टिक सकीं भैंसें; देखें VIDEOGujarat rains News: वीडियो में देखा जा सकता है कि किस तरह से भारी बारिश के बाद हर तरफ पानी ही पानी दिख रहा है। नवसारी जिले में चार घंटे में 13 इंच बारिश से बाढ़ के हालात बन गए हैं।Sat, 22 Jul 2023 07:12 PM","https://www.livehindustan.com/gujarat/story-video-rain-wreaks-havoc-in-gujarat-flood-situation-in-junagadh-navsari-8472581.html","तब से बारिश जारी है और इससे कई नदियों और नालों में जल स्तर तेजी से बढ़ गया है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","7/22/23 13:42","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"1581","Gujarat-flood","गुजरात पर भारी गुजर रही बरसात, महाराष्ट्र में भी उफान पर नदियां; कई और राज्यों में मॉनसून बना आफतGujarat Flood News: गुजरात, महाराष्ट्र जैसे राज्यों में सैलाब से हालात एकदम बिगड़ गए हैं। गुजरात का तो सबसे बुरा हाल है, जहां नवसारी, डांग, अहमदाबाद, तापी, नर्मदा जैसे जिलों में हालात बेकाबू हैं।Tue, 12 Jul 2022 01:20 PM","https://www.livehindustan.com/national/story-gujarat-flood-kills-63-peoples-rivers-overflow-in-maharashtra-know-all-updates-6775974.html","नासिक में भी गोदावरी नदी का जलस्तर इतना ऊपर चला गया है कि धार्मिक नगरी के मंदिर डूबे नजर आ रहे हैं","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""मंदिर डूबे नजर आ रहे हैं"",
+  ""HELP AND RELIEF"": NaN
+}","7/12/22 7:50","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE']"
+"1619","Assam-flood","असम में बाढ़ से तबाही; 78 की मौत और 23 लाख लोग प्रभावित, काजीरंगा में मारे गए 131 वन्य जीव असम में इस साल बाढ़, भूस्खलन और तूफान में 78 लोगों की मौत हुई जबकि इनमें से केवल बाढ़ के कारण 66 लोगों की मौत हुई। बाढ़ की दूसरी लहर से 68,432.75 हेक्टेयर फसल भूमि जलमग्न हो चुकी है।Mon, 08 Jul 2024 09:48 PM","https://www.livehindustan.com/national/story-assam-flood-death-toll-78-lakhs-population-affected-rivers-water-level-above-danger-mark-10408073.html","धुबरी में सबसे अधिक 7,54,791 लोग प्रभावित हुए, इसके बाद कछार में 1,77,928 लोग और बारपेटा में 1,34,328 लोग बाढ़ से प्रभावित हुए","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": ""धुबरी में सबसे अधिक 7,54,791 लोग प्रभावित हुए, इसके बाद कछार में 1,77,928 लोग और बारपेटा में 1,34,328 लोग बाढ़ से प्रभावित "",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","7/8/24 16:18","['B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O']"
+"1845","Assam-flood","हिमंत बिस्वा सरमा ने प्रधानमंत्री मोदी से मुलाकात की, बाढ़ के हालात की जानकारी दीप्रधानमंत्री ने बाढ़ के हालात से निपटने के लिए मुख्यमंत्री द्वारा उठाए कदमों की सराहना करते हुए राज्य सरकार को हरसंभव मदद मुहैया कराने का आश्वासन दिया।Thu, 29 Jun 2023 09:37 PM","https://www.livehindustan.com/national/story-himanta-biswa-sarma-met-prime-minister-modi-informed-about-the-flood-situation-8371844.html","'' राज्य सरकार की एक विज्ञप्ति के अनुसार, सरमा ने प्रधानमंत्री मोदी को असम में बाढ़ के ताजा हालात और बाढ़ प्रभावित लोगों के राहत एवं पुनर्वास के लिए राज्य सरकार द्वारा उठाए कदमों की जानकारी दी","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": ""बाढ़ प्रभावित लोगों के राहत एवं पुनर्वास"" }","6/29/23 16:07","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"2034","Assam-flood","असम में बाढ़ से 40 हजार घर क्षतिग्रस्त, सरमा ने केंद्र से मदद मांगीनई दिल्ली, एजेंसी।
+ असम के मुख्यमंत्री हिमंत बिस्व सरमा ने कहा कि हाल ही मेंSat, 09 Jul 2022 09:40 PM","https://www.livehindustan.com/ncr/new-delhi/story-40-thousand-houses-damaged-in-assam-floods-sarma-seeks-help-from-center-6763552.html","सरमा ने बाढ़ प्रभावित लोगों की मदद करने के लिए राष्ट्रीय आपदा कार्रवाई कोष से आर्थिक मदद मांगी है","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""आर्थिक मदद मांगी""
+}","7/9/22 16:10","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O']"
+"2052","Assam-flood","अपडेट............असम में बाढ़ से करीब तीस लाख लोग बेहालमुसीबत 
+ --बाढ़ और भूस्खलन से मरने वालों की संख्या 173 हुई
+ --तीन लाखFri, 01 Jul 2022 11:20 PM","https://www.livehindustan.com/ncr/new-delhi/story-update-of-assam-floods-about-three-million-people-are-suffering-6724326.html","इसमें से एक समूह कछार, हैलाकांडी और करीमगंज और दूसरा समूह नलबाड़ी, बजली, कामरूप और मोरीगांव में बाढ़ से हुए नुकसान का आकलन करेगी","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": ""बाढ़ से हुए नुकसान का आकलन करेगी"" }","7/1/22 17:50","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF']"
+"2437","Maharashtra-flood","पुन: अपडेट महाराष्ट्र बाढ़ पैकेज  :: महाराष्ट्र में जल प्रलय : बाढ़-भूस्खलन से 85 की मौत, 79 लापतासंदेश : मृतकों के आंकड़ों में बदलाव है।
+ ----------------------------
+ महाराष्ट्र में जल प्रलय :...Sat, 24 Jul 2021 11:00 PM","https://www.livehindustan.com/ncr/new-delhi/story-re-update-maharashtra-flood-package-flood-in-maharashtra-85-killed-79-missing-due-to-flood-landslides-4255888.html","प्रधान ने एक ट्वीट में कहा, कोल्हापुर, पालघर, रत्नागिरी, रायगढ़, सिंधुदुर्ग, सांगली, सातारा के वे विद्यार्थी जो 25 और 27 जुलाई को जेईई (मुख्य) परीक्षा-2021 के तीसरे सत्र में शामिल हो पाने में असमर्थ हैं, उन्हें घबराने की जरूरत नहीं है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","7/24/21 17:30","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"2576","Maharashtra-flood","महाराष्ट्र में बाढ़ से हाहाकार, ट्रेन सेवा प्रभावित होने से हजारों यात्री फंसे; PM ने CM उद्धव ठाकरे से बात कर मदद का दिया भरोसामहाराष्ट्र में भारी बारिश की वजह से हालात बिगड़ते जा रहे हैं। प्रधानमंत्री नरेंद्र मोदी ने महाराष्ट्र में हो रही भारी बारिश और वहां बाढ़ की स्थिति पर राज्य के मुख्यमंत्री उद्धव ठाकरे से बातचीत की है।...Fri, 23 Jul 2021 01:09 AM","https://www.livehindustan.com/national/story-pm-narendra-modi-speaks-to-maharashtra-cm-uddhav-thackeray-discusses-the-situation-of-heavy-rainfall-and-flood-4248879.html","इस बीच, सीएमओ ने कहा कि सतारा जिले के लोकप्रिय हिल स्टेशन महाबलेश्वर में बीते 24 घंटे में 480 मिमी बारिश हुई है, जिससे सावित्री और अन्य नदियों का जलस्तर बढ़ रहा है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","7/22/21 19:39","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"2673","Maharashtra-flood","असम के बाद महाराष्ट्र बाढ़ पीड़ितों की मदद को उतरे अमिताभ बच्चन, डोनेट किए 51 लाख रुपयेबॉलीवुड के मेगास्टार अमिताभ बच्चन (Amitabh Bachchan) समाज सेवा से जुड़े रहते हैं। हाल ही में वे पानी बचाव के लिए मोदी सरकार द्वारा चलाई गई मुहिम का समर्थन करते नजर आए थे। इसके बाद अमिताभ बच्चन असम...Mon, 19 Aug 2019 04:06 PM","https://www.livehindustan.com/entertainment/story-amitabh-bachchan-donates-51-lak-rupees-maharashtra-floods-and-maharashtra-cm-devendra-fadnavis-says-thanks-big-b-2696911.html","मुख्यमंत्री देवेंद्र फडणवीस ट्वीट करते हुए लिखा कि बाढ़ पीढ़ितों की मदद के लिए आगे आने के लिए और सीएम रिलीफ फण्ड को 51 लाख रुपये देने के लिए.... शुक्रिया अमिताभ बच्चन जी","{
+    ""DEATHS"": NaN,
+    ""MISSING"": NaN,
+    ""TRAP"": NaN,
+    ""INJURED"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": ""पीढ़ितों की मदद के लिए आगे आने के लिए और सीएम रिलीफ फण्ड को 51 लाख रुपये देने के लिए""
+}","8/19/19 10:36","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O', 'O', 'O', 'O', 'O']"
+"2737","Balrampur-floods","बलरामपुर में भारी बारिश ने जीवन किया अस्त-व्यस्त, पहाड़ी नाले उफान पर, कई गांवों की सड़कें पानी में बहायूपी के बलरामपुर में लगातार हो रही बारिश ने जिंदगी अस्त-व्यस्त कर दी है। नेपाल के पहाड़ों पर हुई बरसात ने पहाड़ी नालों में बाढ़ ला दी है। जिसके कारण पहाड़ी नाले के तटवर्ती क्षेत्रों में पानी घुस गया है।Sat, 17 Sep 2022 03:15 PM","https://www.livehindustan.com/uttar-pradesh/story-heavy-rain-in-balrampur-roads-of-many-villages-submerged-7094338.html","तीन दिनों से हो रही बारिश ने जिले में जनजीवन अस्त व्यस्त है","{
+    ""DEATHS"": NaN,
+    ""MISSING"": NaN,
+    ""TRAP"": NaN,
+    ""INJURED"": NaN,
+    ""AFFECTED POPULATION"": ""जनजीवन अस्त व्यस्त"",
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": NaN
+}","9/17/22 9:45","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O']"
+"2754","Balrampur-floods","बलरामपुर-बाढ़ में बही सड़क की नहीं हुई मरम्मत, आवागमन बाधितमहाराजगंज तराई। तुलसीपुर विकासखंड के विभिन्न ग्राम पंचायत के बाढ़ क्षेत्र में बाढ़ की...Sat, 16 Apr 2022 05:00 PM","https://www.livehindustan.com/uttar-pradesh/balrampur/story-road-not-repaired-in-balrampur-floods-traffic-disrupted-6278787.html","तुलसीपुर विकासखंड के विभिन्न ग्राम पंचायत के बाढ़ क्षेत्र में बाढ़ की चपेट में आने से अधिकांश सड़कें जर्जर हो चुकी हैं","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""अधिकांश सड़कें जर्जर हो चुकी हैं"",
+  ""HELP AND RELIEF"": NaN
+}","4/16/22 11:30","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE']"
+"2762","Balrampur-floods","बलरामपुर-बाढ़ में बही सड़क की नहीं हुई मरम्मत, आवागमन बाधितमहाराजगंज तराई। तुलसीपुर विकासखंड के विभिन्न ग्राम पंचायत के बाढ़ क्षेत्र में बाढ़ की...Sat, 16 Apr 2022 05:00 PM","https://www.livehindustan.com/uttar-pradesh/balrampur/story-road-not-repaired-in-balrampur-floods-traffic-disrupted-6278787.html","ग्रामीणों ने इसकी शिकायत कई बार अधिकारियों से की लेकिन आज तक सड़क का मरम्मत नहीं कराया गया","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": ""ग्रामीणों ने इसकी शिकायत कई बार अधिकारियों से की"",
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": ""सड़क का मरम्मत नहीं कराया गया"",
+  ""HELP AND RELIEF"": NaN
+}","4/16/22 11:30","['B-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'I-AFFECTED POPULATION', 'O', 'O', 'O', 'B-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE', 'I-INFRASTRUCTURE DAMAGE']"
+"2793","Balrampur-floods","बलरामपुर-बलरामपुर में बाढ़ से सर्वाधिक नुकसान हुआ:सीएमराहत मिलेगी  
+ बलरामपुर व उतरौला तहसील में लगभग 65 हजार लोगों कोFri, 03 Sep 2021 10:00 PM","https://www.livehindustan.com/uttar-pradesh/balrampur/story-balrampur-balrampur-floods-caused-maximum-damage-cm-4504921.html","संवाददाता  उतरौला तहसील के पाला पाली गांव में शुक्रवार को बाढ़ पीड़ितों का हाल जानने आए सीएम योगी ने कहा कि मंडल में सर्वाधिक नुकसान बलरामपुर का हुआ है","{
+    ""DEATHS"": NaN,
+    ""MISSING"": NaN,
+    ""TRAP"": NaN,
+    ""INJURED"": NaN,
+    ""AFFECTED POPULATION"":NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": ""मंडल में सर्वाधिक नुकसान बलरामपुर का हुआ"",
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": NaN
+}","9/3/21 16:30","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'I-FINANCIAL CRISIS', 'O']"
+"2990","Cyclone-Tauktae","तूफान 'मोचा' दिखाएगा यूपी तक असर, कई राज्यों में भारी बारिश का अलर्ट; कैसा रहेगा यूपी-दिल्ली का मौसम?मौसम विभाग का कहना है कि मोचा चक्रवात बनने के बाद म्यांमार और बांग्लादेश तट की ओर बढ़ सकता है। हालांकि इसका असर भारत के तटीय राज्यों में देखने को मिलेगा।  भारी बारिश का अलर्ट जारी किया गया है।Tue, 09 May 2023 07:42 AM","https://www.livehindustan.com/weather/story-mocha-cyclone-will-effect-odisha-andhra-bengal-may-rain-heavily-delhi-up-weather-8143867.html","कश्मीर में बेमौसम बर्फबारीजम्मू-कश्मीर में इन दिनों बर्फबारी हो रही है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","5/9/23 2:12","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"3000","Cyclone-Tauktae","भीषण चक्रवाती तूफान में बदलने वाला है 'असानी', आंध्र, ओडिशा और बंगाल में अलर्टमौसम विभाग ने ओडिशा, आंध्र प्रदेश और पश्चिम बंगाल में अलर्ट जारी किया है कि असानी चक्रवात भीषण चक्रवाती तूफान में बदल सकता है। यह चक्रवात अभी पुरी तट से 1000 किमी की दूरी पर है।Sun, 08 May 2022 03:31 PM","https://www.livehindustan.com/national/story-asani-cyclonic-storm-likely-to-be-severe-in-few-days-alert-in-odisha-andhra-and-bengal-6455087.html","रविवार को सुबह 8 बजे के आसपास यह चक्रवात विशाखापट्टनम से 940 किमी और पुरी से 1000 किमी की दूरी पर था","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","5/8/22 10:01","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"3350","Cyclone-Tauktae","बजरा पी-305 पर मौजूद लोगों में से 26 की मौत, 49 लापता; 186 को बचाया गयाचक्रवाती तूफान ताउते के कारण मुंबई के तट से कुछ दूर सागर में फंसने के बाद डूबने वाला बजरा (बार्ज) पी-305 पर मौजूद लोगों में से 186 को बचा लिया गया है। राहत व बचाव कार्य में जुटी भारती नौसेना ने...Wed, 19 May 2021 10:58 PM","https://www.livehindustan.com/national/story-barge-p305-186-survivors-rescued-and-26-bodies-recovered-search-operation-on-says-india-navy-4043865.html","नौसेना की ओर से बुधवार को बताया गया कि बेहद खराब मौसम से जूझते हुए उसके जवानों ने बजरा पी-305 पर मौजूद 261 लोगों में से अब तक 186 को बचा लिया है, दो लोगों को 'टगबोट' वारप्रदा से बचाया गया है","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""261 लोगों में से अब तक 186 को बचा लिया है, दो लोगों को 'टगबोट' वारप्रदा से बचाया गया""
+}","5/19/21 17:28","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O']"
+"3561","Nepal-earthquake","दिल्ली में प्रदूषण से कब तक राहत के आसार, कनिष्क कांड दोहराने की धमकी क्यों दे रहा पन्नू; टॉप-5 न्यूजकेंद्र के मुताबिक, सोमवार को भूकंप की तीव्रता 5.8 दर्ज की गई और इसका केंद्र जाजरकोट का रामीदंडा था। काठमांडू में भी झटके महसूस किए गए जिससे लोगों में अफरा-तफरी का माहौल पैदा हो गया।Mon, 06 Nov 2023 07:01 PM","https://www.livehindustan.com/national/story-nepal-earthquake-himalayan-region-khalistani-gurpatwant-singh-pannu-delhi-air-top-news-8944208.html","दिल्ली और राष्ट्रीय राजधानी क्षेत्र में कई लोगों ने फर्नीचर के बहुत तेज हिलने की सूचना दी","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","11/6/23 13:31","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"3689","Nepal-earthquake","तैयार रहें, कभी भी आ सकता है बड़ा भूकंप; एक्सपर्ट ने बताई तबाही की वजहजानकारों का कहना है कि हिमालय के नीचे टेक्टोनिक प्लेट लगातार चलायमान है और यह यूरेशियन प्लेट से टकरा सकती है। ऐसे में इस क्षेत्र में बड़े भूकंप का खतरा बना हुआ है।Sat, 04 Nov 2023 08:44 AM","https://www.livehindustan.com/national/story-a-big-earthquake-can-termour-any-time-expert-told-the-reason-nepal-earthquake-8933742.html","नेपाल में आए जोरदार भूकंप में अब तक 130 लोगों की मौत की पुष्टि हो चुकी है","{
+    ""DEATHS"": ""130 लोगों की मौत की पुष्टि"",
+    ""MISSING"": NaN,
+    ""INJURED"": NaN,
+    ""TRAP"": NaN,
+    ""AFFECTED POPULATION"": NaN,
+    ""PLANT AND ANIMAL LOSS"": NaN,
+    ""HEALTH ISSUES"": NaN,
+    ""FOOD SHORTAGE"": NaN,
+    ""FINANCIAL CRISIS"": NaN,
+    ""INFRASTRUCTURE DAMAGE"": NaN,
+    ""HELP AND RELIEF"": NaN
+}","11/4/23 3:14","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'O', 'O', 'O']"
+"3822","Nepal-earthquake","एक रात में 4 बार थर्राया नेपाल, 6 लोगों की मौत, डीवाई चंद्रचूड़ बनेंगे 50वें CJI: सुबह की 5 बड़ी खबरेंन्यायमूर्ति धनंजय वाई. चंद्रचूड़ बुधवार को प्रधान न्यायाधीश (सीजेआई) पद की शपथ लेंगे। राष्ट्रपति द्रौपदी मुर्मू यहां राष्ट्रपति भवन में देश के 50वें सीजेआई न्यायमूर्ति चंद्रचूड़ को पद की शपथ दिलाएंगी।Wed, 09 Nov 2022 08:11 AM","https://www.livehindustan.com/national/story-earthquake-in-delhi-nepal-dy-chandrachud-ne-cji-supreme-court-top-5-news-7327827.html","न्यायमूर्ति चंद्रचूड़ उच्चतम न्यायालय के पवित्र गलियारों से बेहद अच्छी तरह वाकिफ हैं, जहां उनके पिता लगभग सात साल और चार महीने तक प्रधान न्यायाधीश रहे थे, जो शीर्ष अदालत के इतिहास में किसी सीजेआई का सबसे लंबा कार्यकाल रहा है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","11/9/22 2:41","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"4013","Manipur-landslide","मणिपुर भूस्खलन:अपडेट2 ::: मणिपुर में 12 और शव मिले, मृतकों की संख्या 20 हुईएनआरडीएफ, सेना, असम राइफल्स, प्रादेशिक सेना और एसडीआरएफ का खोज-बचाव अभियान जारी
+ कई स्थानों...Fri, 01 Jul 2022 09:40 PM","https://www.livehindustan.com/ncr/new-delhi/story-manipur-landslide-update2-12-more-bodies-found-in-manipur-death-toll-rises-to-20-6723711.html","मृतकों में नौ जवान पश्चिम बंगाल के : ममता  इस बीच, पश्चिम बंगाल की मुख्यमंत्री ममता बनर्जी ने शुक्रवार शाम को कहा कि भूस्खलन में मारे गए लोगों में नौ जवान उनके राज्य के हैं","{
+  ""DEATHS"": ""भूस्खलन में मारे गए लोगों में नौ जवान उनके राज्य के हैं"",
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","7/1/22 16:10","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS', 'I-DEATHS']"
+"4035","Manipur-landslide","मणिपुर भूस्खलन:अपडेट1 ::: मृतकों की संख्या बढ़कर 17 हुई, बचाव कार्य जारीएनआरडीएफ, सेना, असम राइफल्स, प्रादेशिक सेना और एसडीआरएफ का खोज-बचाव अभियान जारी
+ कई स्थानों...Fri, 01 Jul 2022 07:50 PM","https://www.livehindustan.com/ncr/new-delhi/story-manipur-landslide-update1-death-toll-rises-to-17-rescue-work-underway-6723278.html","हजारिका इस समय नई दिल्ली में हैं","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","7/1/22 14:20","['O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"4074","Manipur-landslide","मणिपुर भूस्खलन: पीएम मोदी ने की स्थिति की समीक्षा, हर संभव मदद का दिया आश्वासनमणिपुर के नोनी जिले में रेलवे निर्माण स्थल पर भीषण भूस्खलन के बाद दो लोगों की मौत हो गई तथा स्थानीय और सैन्य कर्मियों समेत दर्जनों लोग लापता हैं। भूस्खलन की घटना बुधवार रात को हुई है।Thu, 30 Jun 2022 04:49 PM","https://www.livehindustan.com/national/story-pm-narendra-modi-speaks-to-manipur-cm-n-biren-singh-assures-all-possible-help-following-landslide-tragedy-6716869.html","मोदी ने कहा, 'मणिपुर के मुख्यमंत्री एन बिरेन सिंह से बात की और दुखद भूस्खलन से पैदा हुई स्थिति की समीक्षा की","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""INJURED"": NaN,
+  ""TRAP"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": NaN
+}","6/30/22 11:19","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"4125","Cyclone-Fani","Cyclone Amphan Live Updates: बंगाल के तट पर चक्रवाती तूफान 'अम्फान' की दस्तक, बांग्लादेश में 1 की मौतCyclone Amphan Live Updates: मौसम विभाग ने बताया कि चक्रवात 'अम्फान ने बुधवार को दोपहर ढाई बजे के करीब पश्चिम बंगाल में दीघा और बांग्लादेश में हटिया द्वीप के बीच दस्तक दी । तेज बारिश और...Wed, 20 May 2020 08:30 PM","https://www.livehindustan.com/national/story-amphan-cyclone-live-updates-today-hits-kolkata-odisha-west-bengal-20-may-2020-know-live-tracker-status-and-update-3226313.html","पश्चिम बंगाल और ओडिशा दोनों ही राज्यों पर नजर बनी हुई है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","5/20/20 15:00","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"4277","Cyclone-Fani","Cyclone Fani: मृतकों की संख्या 43 पहुंची, राहत में देरी से लोगों में गुस्साओडिशा में चक्रवाती तूफान 'फोनी की चपेट में आने से मरने वाले लोगों की संख्या शनिवार को 43 तक पहुंच गई। वहीं एक सप्ताह पहले आये भयंकर तूफान से तबाह हुए तटीय इलाकों में पानी की कमी और बिजली...Sat, 11 May 2019 10:29 PM","https://www.livehindustan.com/national/story-cyclone-fani-death-reached-43-survivors-protest-delay-in-relief-demand-restoration-of-power-2526594.html","जाजपुर जिले के कलेक्टर आर के दास ने कहा कि अधिकारी पर हमले में जो भी लोग दोषी पाये जायेंगे, उनके खिलाफ ''कड़ी कार्रवाई की जायेगी","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","5/11/19 16:59","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"4319","Cyclone-Fani","टॉप 10 न्यूज: फेनी के कहर के बाद ओडिशा में बिजली-पानी का संकट, जरूरी चीजों के बढ़े दाम; पढ़ें देश और दुनिया की प्रमुख खबरें1- फेनी के कहर के बाद ओडिशा में बिजली-पानी का संकट, जरूरी चीजों के बढ़े दाम
+
+ओडिशा में भीषण चक्रवात 'फेनी' (Cyclone Feni) के चार दिन बीतने के बाद बिजली-पानी और खाद्य पदार्थों का...Wed, 08 May 2019 06:02 PM","https://www.livehindustan.com/national/story-top-10-news-read-national-and-international-news-of-the-day-2521985.html","cardekho.comके मुताबिक यह हुंडई की पहली सब-4 मीटर एसयूवी होगी जिसे 21 मई 2019 को भारत में लॉन्च किया जाएगा","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","5/8/19 12:32","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"4443","Cyclone-Fani","फेनी तूफान: पीएम मोदी ने किया ओडिशा का हवाई सर्वेक्षण, की नवीन पटनायक की प्रशंसाप्रधानमंत्री नरेंद्र मोदी (PM Narendra Modi) ने ओडिशा में चक्रवात फेनी (Cyclone Fani) के कारण हुई क्षति का आकलन करने के लिए सोमवार को हवाई सर्वेक्षण किया। पीएम मोदी ने कहा कि केंद्र सरकार ने पहले ही...Mon, 06 May 2019 12:58 PM","https://www.livehindustan.com/national/story-pm-modi-conducts-aerial-survey-of-cyclone-fani-ravaged-areas-in-odisha-2518834.html","केंद्र जारी राहत एवं बचाव कार्यों में हर संभव सहायता मुहैया कराने को लेकर प्रतिबद्ध है","{
+  ""DEATHS"": NaN,
+  ""MISSING"": NaN,
+  ""TRAP"": NaN,
+  ""INJURED"": NaN,
+  ""AFFECTED POPULATION"": NaN,
+  ""PLANT AND ANIMAL LOSS"": NaN,
+  ""HEALTH ISSUES"": NaN,
+  ""FOOD SHORTAGE"": NaN,
+  ""FINANCIAL CRISIS"": NaN,
+  ""INFRASTRUCTURE DAMAGE"": NaN,
+  ""HELP AND RELIEF"": ""राहत एवं बचाव कार्यों में हर संभव सहायता मुहैया कराने को लेकर प्रतिबद्ध""
+}","5/6/19 7:28","['O', 'O', 'B-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'I-HELP AND RELIEF', 'O']"
+"4811","Cyclone-Vayu","Cyclone Vayu : जानें कैसे होता है चक्रवात का नामकरण, नाम चुनने का क्या है तरीकामाला, हेलेन, नरगिस और निलोफर...ये गुजरे जमाने की बॉलीवुड हीरोइन के नाम सुनते ही उस दौर की फिल्में और उनमें उनका ग्लैमरस अंदाज याद आ जाता है। मगर यहां गुजरे जमाने की फिल्मों की बात नहीं की जा रही है,...Thu, 13 Jun 2019 03:00 PM","https://www.livehindustan.com/national/story-cyclone-vayu-know-how-cyclones-are-named-and-what-is-its-process-2573279.html","महिला संगठनों ने इसका विरोध करने पर नया नियम लाया गया","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","6/13/19 9:30","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"4813","Cyclone-Vayu","Cyclone Vayu : जानें कैसे होता है चक्रवात का नामकरण, नाम चुनने का क्या है तरीकामाला, हेलेन, नरगिस और निलोफर...ये गुजरे जमाने की बॉलीवुड हीरोइन के नाम सुनते ही उस दौर की फिल्में और उनमें उनका ग्लैमरस अंदाज याद आ जाता है। मगर यहां गुजरे जमाने की फिल्मों की बात नहीं की जा रही है,...Thu, 13 Jun 2019 03:00 PM","https://www.livehindustan.com/national/story-cyclone-vayu-know-how-cyclones-are-named-and-what-is-its-process-2573279.html","इसे भी पढ़ें :Cyclone Vayu: चक्रवाती तूफान 'वायु' के रास्ता बदलने के बावजूद हाई अलर्ट पर गुजरात; 10 खास बातें","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","6/13/19 9:30","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"4817","Cyclone-Vayu","उत्तराखंड में ‘वायु’ से भारी बारिश के आसारअरब सागर में उठा ‘वायु’ चक्रवात और विकराल रूप में आ रहा है। यह तूफान गुरुवार को गुजरात के तट से टकराएगा। इससे उत्तर भारत पर भी असर पड़ेगा। इस तूफान के चलते मौसम विभाग ने उत्तराखंड में 18...Thu, 13 Jun 2019 01:43 PM","https://www.livehindustan.com/uttarakhand/story-uttarakhand-to-witness-heavy-rainfall-on-cyclone-vayu-starting-from-june-18-2573205.html","इस तूफान के चलते मौसम विभाग ने उत्तराखंड में 18 और 19 जून को भारी बारिश की आशंका जताई है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","6/13/19 8:13","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"5090","Cyclone-Mandous ","IMD Rainfall Alert: इन राज्यों में दो दिनों तक होगी भारी बारिश, स्कूल-कॉलेज बंद; मौसम विभाग की चेतावनीWeather: IMD Rainfall Alert, चक्रवाती तूफान के उत्तर-पश्चिम की ओर बढ़ने और उत्तर तमिलनाडु, पुडुचेरी तथा श्रीहरिकोटा के पास ममल्लापुरम व दक्षिणी आंध्र प्रदेश के तटों को पार करने की संभावना है।Fri, 09 Dec 2022 10:54 PM","https://www.livehindustan.com/national/story-imd-rainfall-alert-cyclone-mandous-update-9-december-weather-report-forecast-barish-school-college-closed-7467020.html","मैंडूस अरबी भाषा का एक शब्द है और इसका अर्थ है खजाने की पेटी (बॉक्स) और यह नाम संयुक्त अरब अमीरात द्वारा चुना गया था","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","12/9/22 17:24","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"5098","Cyclone-Mandous ","IMD Rainfall Alert: इन राज्यों में दो दिनों तक होगी भारी बारिश, स्कूल-कॉलेज बंद; मौसम विभाग की चेतावनीWeather: IMD Rainfall Alert, चक्रवाती तूफान के उत्तर-पश्चिम की ओर बढ़ने और उत्तर तमिलनाडु, पुडुचेरी तथा श्रीहरिकोटा के पास ममल्लापुरम व दक्षिणी आंध्र प्रदेश के तटों को पार करने की संभावना है।Fri, 09 Dec 2022 10:54 PM","https://www.livehindustan.com/national/story-imd-rainfall-alert-cyclone-mandous-update-9-december-weather-report-forecast-barish-school-college-closed-7467020.html","उन्होंने कहा कि शुक्रवार से दो दिनों तक सभी स्कूल और कॉलेज बंद रहेंगे","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","12/9/22 17:24","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"5134","Cyclone-Mandous ","फिलहाल धीमा पड़ा चक्रवात मैंडूस, खराब मौसम के बीच रद्द हुईं चेन्नई की 16 उड़ानें विभाग के मुताबिक, लगभग 85 किलोमीटर प्रति घंटे की रफ्तार से चलने वाली चक्रवाती हवाओं के अलावा भारी बारिश का भी अनुमान है। सरकार ने एक हेल्पलाइन 044-2538-4530 नंबर जारी किया है।Fri, 09 Dec 2022 06:54 PM","https://www.livehindustan.com/national/story-16-chennai-flights-cancelled-amid-bad-weather-as-cyclone-mandous-less-intense-now-7466722.html","चेन्नई समेत राज्य के 12 जिलों में स्कूल और कॉलेज बंद कर दिए गए हैं","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","12/9/22 13:24","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+"5185","Cyclone-Mandous ","Cyclone Mandous: चक्रवात मंडौस की बढ़ेगी रफ्तार, तमिलनाडु समेत इन राज्यों में मौसम बिगड़ने के आसारबुधवार शाम यह तूफान उत्तर तमिलनाडु तट और गुरुवार सुबह तक आंध्र प्रदेश तट पहुंच सकता है। 8 से 10 दिसंबर के बीच इसके पश्चिम-उत्तर पश्चिम तमिलनाडु और दक्षिण आंध्र प्रदेश तट तक पहुंचने के आसार हैं।Wed, 07 Dec 2022 03:03 PM","https://www.livehindustan.com/national/story-cyclone-mandous-update-rainfall-in-tamil-nadu-imd-weather-news-in-hindi-7456214.html","संभावनाएं जताई जा रही हैं कि बुधवार सुबह तैयार हुआ गहरा दबाव पश्चिम-उत्तर पश्चिम की ओर बढ़ सकता है","{ ""DEATHS"": NaN, ""MISSING"": NaN, ""INJURED"": NaN, ""TRAP"": NaN, ""AFFECTED POPULATION"": NaN, ""PLANT AND ANIMAL LOSS"": NaN, ""HEALTH ISSUES"": NaN, ""FOOD SHORTAGE"": NaN, ""FINANCIAL CRISIS"": NaN, ""INFRASTRUCTURE DAMAGE"": NaN, ""HELP AND RELIEF"": NaN}","12/7/22 9:33","['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
